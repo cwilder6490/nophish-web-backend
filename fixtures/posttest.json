@@ -1,0 +1,293 @@
+{
+  "test_id": 2,
+  "items": [
+    {
+      "item_id": 1,
+      "type": "web",
+      "provider": "Amazon",
+      "isPhishing": false,
+      "image": "post1.png",
+      "copyright": "Amazon.com, Inc.",
+      "meta": {
+        "extendedValidationCert": false,
+        "extendedValidationCertName": "Amazon",
+        "protocol": "https",
+        "subDomain": "www",
+        "domain": "amazon",
+        "tld": "de",
+        "path": "/Angebote/b/ref=cs_top_nav_gb27?ie=UTF8"
+      },
+      "test": 2
+    },
+    {
+      "item_id": 2,
+      "type": "web",
+      "provider": "BILD",
+      "isPhishing": false,
+      "image": "post2.png",
+      "copyright": "Axel Springer SE",
+      "meta": {
+        "extendedValidationCert": false,
+        "extendedValidationCertName": "BILD",
+        "protocol": "https",
+        "subDomain": "epaper",
+        "domain": "bild",
+        "tld": "de",
+        "path": "/"
+      },
+      "test": 2
+    },
+    {
+      "item_id": 3,
+      "type": "web",
+      "provider": "LinkedIn",
+      "isPhishing": false,
+      "image": "post3.png",
+      "copyright": "Linkedin.com, Inc.",
+      "meta": {
+        "extendedValidationCert": false,
+        "extendedValidationCertName": "LinkedIn",
+        "protocol": "https",
+        "subDomain": "touch.www",
+        "domain": "linkedin",
+        "tld": "com",
+        "path": "/login.html"
+      },
+      "test": 2
+    },
+    {
+      "item_id": 4,
+      "type": "web",
+      "provider": "IKEA",
+      "isPhishing": false,
+      "image": "post4.png",
+      "copyright": "INGKA Holding B.V.",
+      "meta": {
+        "extendedValidationCert": false,
+        "extendedValidationCertName": "IKEA",
+        "protocol": "https",
+        "subDomain": "secure",
+        "domain": "ikea",
+        "tld": "com",
+        "path": "/webapp/wcs/stores/servlet/LogonForm?storeId=5&langId=-3&krypto=hepaeasCkGiXPs%2B9PRBgYLRRowh2kbPSPGxwe3XBnOQWmrtDpZY6JQSAlgiJTTilYXb%2BpkZoFRim%0Ater%2BKc90yg%3D%3D&ddkey=https:UpdateUser"
+      },
+      "test": 2
+    },
+    {
+      "item_id": 5,
+      "type": "web",
+      "provider": "StepStone",
+      "isPhishing": false,
+      "image": "post5.jpg",
+      "copyright": "StepStone Deutschland GmbH",
+      "meta": {
+        "extendedValidationCert": false,
+        "extendedValidationCertName": "StepStone",
+        "protocol": "https",
+        "subDomain": "www",
+        "domain": "stepstone",
+        "tld": "de",
+        "path": "/5/index.cfm?event=candidateLogin.index&event=candidateLogin"
+      },
+      "test": 2
+    },
+    {
+      "item_id": 6,
+      "type": "web",
+      "provider": "Tagesschau",
+      "isPhishing": false,
+      "image": "post6.jpg",
+      "copyright": "ARD",
+      "meta": {
+        "extendedValidationCert": false,
+        "extendedValidationCertName": "Tagesschau",
+        "protocol": "https",
+        "subDomain": "",
+        "domain": "tagesschau",
+        "tld": "de",
+        "path": "/frontpage?destination=frontpage"
+      },
+      "test": 2
+    },
+    {
+      "item_id": 7,
+      "type": "web",
+      "provider": "DIE WELT",
+      "isPhishing": false,
+      "image": "post7.png",
+      "copyright": "WeltN24 GmbH, Berlin (Axel Springer SE)",
+      "meta": {
+        "extendedValidationCert": false,
+        "extendedValidationCertName": "WELT",
+        "protocol": "https",
+        "subDomain": "www",
+        "domain": "welt",
+        "tld": "de",
+        "path": "/sonderthemen/mittelstand/forschung/"
+      },
+      "test": 2
+    },
+    {
+      "item_id": 8,
+      "type": "web",
+      "provider": "Yahoo!",
+      "isPhishing": false,
+      "image": "post8.png",
+      "copyright": "Yahoo! Inc.",
+      "meta": {
+        "extendedValidationCert": false,
+        "extendedValidationCertName": "Yahoo!",
+        "protocol": "https",
+        "subDomain": "de",
+        "domain": "yahoo",
+        "tld": "com",
+        "path": "/?p=us"
+      },
+      "test": 2
+    },
+    {
+      "item_id": 9,
+      "type": "web",
+      "provider": "Comdirect",
+      "isPhishing": true,
+      "image": "post9.png",
+      "copyright": "Comdirect Bank Aktiengesellschaft",
+      "meta": {
+        "extendedValidationCert": true,
+        "extendedValidationCertName": "comdirekt bank AG [DE]",
+        "protocol": "https",
+        "subDomain": "",
+        "domain": "198.176.23.15",
+        "tld": "",
+        "path": "/lp/pw/login"
+      },
+      "test": 2
+    },
+    {
+      "item_id": 10,
+      "type": "web",
+      "provider": "Focus",
+      "isPhishing": true,
+      "image": "post10.png",
+      "copyright": "Hubert Burda Media Holding KG",
+      "meta": {
+        "extendedValidationCert": true,
+        "extendedValidationCertName": "Focus",
+        "protocol": "https",
+        "subDomain": "www",
+        "domain": "lesen",
+        "tld": "de",
+        "path": "/abo/digital"
+      },
+      "test": 2
+    },
+    {
+      "item_id": 11,
+      "type": "web",
+      "provider": "Süddeutsche Zeitung",
+      "isPhishing": true,
+      "image": "post11.jpg",
+      "copyright": "Süddeutscher Verlag",
+      "meta": {
+        "extendedValidationCert": false,
+        "extendedValidationCertName": "Süddeutsche Zeitung",
+        "protocol": "https",
+        "subDomain": "id",
+        "domain": "suedduetsche",
+        "tld": "de",
+        "path": "/login"
+      },
+      "test": 2
+    },
+    {
+      "item_id": 12,
+      "type": "web",
+      "provider": "Wikipedia",
+      "isPhishing": true,
+      "image": "post12.png",
+      "copyright": "Wikimedia Foundation",
+      "meta": {
+        "extendedValidationCert": false,
+        "extendedValidationCertName": "Wikipedia",
+        "protocol": "https",
+        "subDomain": "de",
+        "domain": "wikipedia-login",
+        "tld": "org",
+        "path": "/index.php?=Anmelden"
+      },
+      "test": 2
+    },
+    {
+      "item_id": 13,
+      "type": "web",
+      "provider": "Zalando",
+      "isPhishing": true,
+      "image": "post13.png",
+      "copyright": "Zalando SE",
+      "meta": {
+        "extendedValidationCert": false,
+        "extendedValidationCertName": "Zalando",
+        "protocol": "https",
+        "subDomain": "www",
+        "domain": "zalando-zahlungsarten",
+        "tld": "de",
+        "path": "/damen-home/"
+      },
+      "test": 2
+    },
+    {
+      "item_id": 14,
+      "type": "web",
+      "provider": "gutefrage",
+      "isPhishing": true,
+      "image": "post14.png",
+      "copyright": "gutefrage.net GmbH",
+      "meta": {
+        "extendedValidationCert": false,
+        "extendedValidationCertName": "gutefrage",
+        "protocol": "https",
+        "subDomain": "",
+        "domain": "events-ma",
+        "tld": "de",
+        "path": "/www.gutefrage.net/tag/freizeit"
+      },
+      "test": 2
+    },
+    {
+      "item_id": 15,
+      "type": "web",
+      "provider": "Live",
+      "isPhishing": true,
+      "image": "post15.png",
+      "copyright": "Microsoft Corporation",
+      "meta": {
+        "extendedValidationCert": true,
+        "extendedValidationCertName": "Microsoft Corporation [US]",
+        "protocol": "https",
+        "subDomain": "login.live",
+        "domain": "dub123",
+        "tld": "com",
+        "path": "/login.srf?wa=wsignin1.0&rpsnv=12&ct=1441830915&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Fshowunauth%3D1%26rru%3Dinbox&lc=1031&id=64855&mkt=de-de&cbcxt=mai"
+      },
+      "test": 2
+    },
+    {
+      "item_id": 16,
+      "type": "web",
+      "provider": "Otto",
+      "isPhishing": true,
+      "image": "post16.jpg",
+      "copyright": "Otto (GmbH & Co KG)",
+      "meta": {
+        "extendedValidationCert": true,
+        "extendedValidationCertName": "Otto (GmbH & Co KG) [DE]",
+        "protocol": "https",
+        "subDomain": "www",
+        "domain": "0tto",
+        "tld": "de",
+        "path": "/damenmode/kategorien/anzuege-kostueme/"
+      },
+      "test": 2
+    }
+  ]
+}

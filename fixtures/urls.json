@@ -1,0 +1,6172 @@
+[
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [],
+    "domain": "sourceforge",
+    "topLevelDomain": "net",
+    "port": "",
+    "path": [],
+    "providerName": "Sourceforge"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "goparallel"
+    ],
+    "domain": "sourceforge",
+    "topLevelDomain": "net",
+    "port": "",
+    "path": [
+      "build"
+    ],
+    "providerName": "Sourceforge"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [],
+    "domain": "sourceforge",
+    "topLevelDomain": "net",
+    "port": "",
+    "path": [
+      "directory/",
+      "business-enterprise/",
+      "scheduling/",
+      "os:mac/",
+      "freshness:recently-updated"
+    ],
+    "providerName": "Sourceforge"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "drive"
+    ],
+    "domain": "google",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "#my-drive"
+    ],
+    "providerName": "Google"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "drive"
+    ],
+    "domain": "google",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "#query?view=2&filter=collections&containers=0"
+    ],
+    "providerName": "Google"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "drive"
+    ],
+    "domain": "google",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "?authuser=0#query?view=2&mine=0&visibility=4"
+    ],
+    "providerName": "Google"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "docs"
+    ],
+    "domain": "google",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "document/",
+      "d/",
+      "17T1fR_AhoIjNTp3s6od6sv1Kcxwq1OINSrpYrothJuc/",
+      "edit"
+    ],
+    "providerName": "Google"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Dropbox, Inc [US]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "dropbox",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [],
+    "providerName": "Dropbox"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Dropbox, Inc [US]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "dropbox",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "login"
+    ],
+    "providerName": "Dropbox"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Dropbox, Inc [US]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "dropbox",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "help/",
+      "category/",
+      "Desktop"
+    ],
+    "providerName": "Dropbox"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Dropbox, Inc [US]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "dropbox",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "business/",
+      "try"
+    ],
+    "providerName": "Dropbox"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Dropbox, Inc [US]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "dropbox",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "sh/",
+      "4g6qu4f1ovoku9/",
+      "397KmY9M1U"
+    ],
+    "providerName": "Dropbox"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Dropbox, Inc [US]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "dropbox",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "account#applications"
+    ],
+    "providerName": "Dropbox"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Microsoft Corporation [US]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "microsoft",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "de-de/",
+      "default.aspx"
+    ],
+    "providerName": "Microsoft"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Microsoft Corporation [US]",
+    "protocol": "https",
+    "subDomains": [
+      "windows"
+    ],
+    "domain": "microsoft",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "de-de/",
+      "windows/",
+      "support#top-solutions=windows-8"
+    ],
+    "providerName": "Microsoft"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www",
+      "update"
+    ],
+    "domain": "microsoft",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "windowsupdate/",
+      "v6/",
+      "thanks.aspx?ln=de&&thankspage=5"
+    ],
+    "providerName": "Microsoft"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "office"
+    ],
+    "domain": "microsoft",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "de-DE/",
+      "support"
+    ],
+    "providerName": "Microsoft"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "mspartner"
+    ],
+    "domain": "microsoft",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "de/",
+      "de/",
+      "Pages/",
+      "index.aspx"
+    ],
+    "providerName": "Microsoft"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Microsoft Corporation [US]",
+    "protocol": "https",
+    "subDomains": [
+      "windows"
+    ],
+    "domain": "microsoft",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "de-de/",
+      "windows/",
+      "devices-drivers-help#hardware-drivers-help=windows-8&v1h=win8tab1"
+    ],
+    "providerName": "Microsoft"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Microsoft Corporation [US]",
+    "protocol": "https",
+    "subDomains": [
+      "dub123",
+      "mail"
+    ],
+    "domain": "live",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "default.aspx?id=64855"
+    ],
+    "providerName": "Live"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Microsoft Corporation [US]",
+    "protocol": "https",
+    "subDomains": [
+      "dub123",
+      "mail"
+    ],
+    "domain": "live",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "default.aspx?id=64855#n=1409928537&fid=fd436b45b54542fea7803f998865e5a5"
+    ],
+    "providerName": "Live"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Microsoft Corporation [US]",
+    "protocol": "https",
+    "subDomains": [
+      "account"
+    ],
+    "domain": "live",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "summarypage.aspx"
+    ],
+    "providerName": "Live"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Microsoft Corporation [US]",
+    "protocol": "https",
+    "subDomains": [
+      "account"
+    ],
+    "domain": "live",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "password/",
+      "Change"
+    ],
+    "providerName": "Live"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Microsoft Corporation [US]",
+    "protocol": "https",
+    "subDomains": [
+      "skydrive"
+    ],
+    "domain": "live",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "?cid=82f144bac707ea90#cid=82f144bac707ea90"
+    ],
+    "providerName": "Live"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "stepstone",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Stepstone"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "stepstone",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "jobs--Ingenieure-und-technische-Berufe--10000000.html"
+    ],
+    "providerName": "Stepstone"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "stepstone",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "Karriere-Bewerbungstipps"
+    ],
+    "providerName": "Stepstone"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "stepstone",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "Karriere-Bewerbungstipps/",
+      "bewerbungstipps/",
+      "assessment-center.cfm"
+    ],
+    "providerName": "Stepstone"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "career"
+    ],
+    "domain": "stepstone",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "vacancy/",
+      "129/",
+      "applicationlogin"
+    ],
+    "providerName": "Stepstone"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "stepstone",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "5/",
+      "index.cfm?event=candidateLogin.index&event=candidateLogin"
+    ],
+    "providerName": "Stepstone"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "stepstone",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "stellenanbieter/",
+      "stellenausschreibung/",
+      "stellenanzeigen-aufgeben"
+    ],
+    "providerName": "Stepstone"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "linkedin",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [],
+    "providerName": "Linkedin"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "linkedin",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "uas/",
+      "request-password-reset?trk=signin_fpwd"
+    ],
+    "providerName": "Linkedin"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "linkedin",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "reg/",
+      "join"
+    ],
+    "providerName": "Linkedin"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "hilfe"
+    ],
+    "domain": "linkedin",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "app/",
+      "answers/",
+      "detail/",
+      "a_id/",
+      "34918"
+    ],
+    "providerName": "Linkedin"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "XING AG [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "xing",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [],
+    "providerName": "Xing"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "login"
+    ],
+    "domain": "xing",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "login"
+    ],
+    "providerName": "Xing"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "XING AG [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "xing",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "app/",
+      "signup"
+    ],
+    "providerName": "Xing"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "XING AG [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "xing",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "app/",
+      "user?op=lostpassword"
+    ],
+    "providerName": "Xing"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "corporate"
+    ],
+    "domain": "xing",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "no_cache/",
+      "deutsch/",
+      "unternehmen/",
+      "xing-ag"
+    ],
+    "providerName": "Xing"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "devblog"
+    ],
+    "domain": "xing",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [],
+    "providerName": "Xing"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "mail"
+    ],
+    "domain": "google",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "mail/",
+      "u/",
+      "0/",
+      "?shva=1#inbox"
+    ],
+    "providerName": "Google"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "accounts"
+    ],
+    "domain": "google",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "ServiceLogin?service=mail&passive=true&rm=false&continue=http:/",
+      "mail.google.com/",
+      "mail/",
+      "&scc=1&ltmpl=googlemail&emr=1"
+    ],
+    "providerName": "Google"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "google",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "accounts/",
+      "recovery?hl=de&ard=AHwGkRlAt-jGIBKgXMNWwljsTHeFdOmLAUUBNdla5wNVZLKC6jhLCYogUw3cpRCvBNmmz32OVqoXlKdXr9PvUbgAMJzsPHLH0cTwXBN29mPcGkaiXSW9acqVWNcJCvQ6rCVODQ9gCeWFgCfrEpgD8Vu524YR2Td1Z3K8kPxXIqciYLTKmzWlNgTLKGSFvM1Kcg1Ji_hzw2SW&service=mail"
+    ],
+    "providerName": "Google"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "plus"
+    ],
+    "domain": "google",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "u/",
+      "0/",
+      "up/",
+      "search"
+    ],
+    "providerName": "Google"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "google",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "webhp?tab=mw&ei=iI-cUtnrOvTTsAT-44HwAw&ved=0CAUQqS4oAg&gws_rd=cr"
+    ],
+    "providerName": "Google"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "google",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "services/",
+      "?fg=1"
+    ],
+    "providerName": "Google"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "adwords"
+    ],
+    "domain": "google",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "um/",
+      "Signup/",
+      "Homehttps:/",
+      "www.google.com/",
+      "calendar/",
+      "render?tab=mc&pli=1"
+    ],
+    "providerName": "Google"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "play"
+    ],
+    "domain": "google",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "store?hl=de&tab=L8"
+    ],
+    "providerName": "Google"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "de"
+    ],
+    "domain": "msn",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "?rd=1&ucc=DE&dcc=DE&opt=0"
+    ],
+    "providerName": "MSN"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "unterhaltung",
+      "de"
+    ],
+    "domain": "msn",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "family"
+    ],
+    "providerName": "MSN"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "lifestyle",
+      "de"
+    ],
+    "domain": "msn",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "leben"
+    ],
+    "providerName": "MSN"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "auto",
+      "de"
+    ],
+    "domain": "msn",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "verkehr"
+    ],
+    "providerName": "MSN"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "gmx",
+    "topLevelDomain": "net",
+    "port": "",
+    "path": [],
+    "providerName": "GMX"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "mobile"
+    ],
+    "domain": "gmx",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "?__reuse=1385992497330"
+    ],
+    "providerName": "GMX"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "mobile"
+    ],
+    "domain": "gmx",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "Kosten?__sendingdata=1&cart.action=add-bundle&cart.bundle=bundle-an-flex500-mvl&linkId=ct.btn.weiter.flex-500-mvl&__action=cartAction"
+    ],
+    "providerName": "GMX"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "gmx",
+    "topLevelDomain": "net",
+    "port": "",
+    "path": [
+      "produkte/",
+      "mail/",
+      "?mc=fm@hp@reiter.fm"
+    ],
+    "providerName": "GMX"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "lotto"
+    ],
+    "domain": "gmx",
+    "topLevelDomain": "net",
+    "port": "",
+    "path": [
+      "webshop/",
+      "product/",
+      "lottonormal?partnerId=0GMHOM0HOM&advertisementId=0REITER000000000000000000000000000000000000"
+    ],
+    "providerName": "GMX"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [],
+    "domain": "web",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "fm"
+    ],
+    "providerName": "WEB"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "mobile"
+    ],
+    "domain": "web",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "?__reuse=1385992696270"
+    ],
+    "providerName": "WEB"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "mobile"
+    ],
+    "domain": "web",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "Kosten?__sendingdata=1&cart.action=add-bundle&cart.bundle=bundle-an-flex500-mvl&linkId=ct.btn.weiter.flex-500-mvl&__action=cartAction"
+    ],
+    "providerName": "WEB"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "produkte"
+    ],
+    "domain": "web",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "freemail-webmail/",
+      "?mc=hp@fm@reiter.produkte@freemail"
+    ],
+    "providerName": "WEB"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "produkte"
+    ],
+    "domain": "web",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "freemail-webmail/",
+      "email-anbieter"
+    ],
+    "providerName": "WEB"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "registrierung"
+    ],
+    "domain": "web",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      ";jsessionid=7D7DB64B4C83E5E0731217628221D1CD.pffG8PyA0NScEukm2_q-GA_RGfc?0"
+    ],
+    "providerName": "WEB"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "lotto"
+    ],
+    "domain": "web",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "webshop/",
+      "product/",
+      "lottonormal?partnerId=0WEHOM0HOM&advertisementId=0REITER000000000000000000000000000000000000"
+    ],
+    "providerName": "WEB"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "golem",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Golem"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "golem",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "specials/",
+      "windows-8-1"
+    ],
+    "providerName": "Golem"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "golem",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "news/",
+      "3d-builder-microsoft-bringt-app-fuer-den-3d-druck-aus-windows-8-1-heraus-1311-102797.html"
+    ],
+    "providerName": "Golem"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "ard",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "home/",
+      "ard/",
+      "ARD_Startseite/",
+      "21920/",
+      "index.html"
+    ],
+    "providerName": "ARD"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "boerse"
+    ],
+    "domain": "ard",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "index.html"
+    ],
+    "providerName": "ARD"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "boerse"
+    ],
+    "domain": "ard",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "boersenwissen/",
+      "wie-wirtschaft-wirkt/",
+      "index.html"
+    ],
+    "providerName": "ARD"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "ard",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "home/",
+      "ard/",
+      "Nutzungsbestimmungen_ARD_de/",
+      "77962/",
+      "index.html"
+    ],
+    "providerName": "ARD"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "zdf",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "ZDF"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "neo"
+    ],
+    "domain": "zdf",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "ZDFneo-3986.html"
+    ],
+    "providerName": "ZDF"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "kultur"
+    ],
+    "domain": "zdf",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "ZDFkultur-3990.html"
+    ],
+    "providerName": "ZDF"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "zdf",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "ZDFmediathek/",
+      "beitrag/",
+      "video/",
+      "2031492/",
+      "zdf%2540bauhaus-Birdy"
+    ],
+    "providerName": "ZDF"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "zdf",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "epg/",
+      "Programm-4100.html?senderToFilter=ZDF.kultur&action=filter&datum=heute&ansicht=vertikal"
+    ],
+    "providerName": "ZDF"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "zdf",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "ZDFmediathek/",
+      "beitrag/",
+      "video/",
+      "2035216/",
+      "Himmlische-Weihnachten-im-Zweiten"
+    ],
+    "providerName": "ZDF"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "bergdoktor"
+    ],
+    "domain": "zdf",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "Der-Bergdoktor/",
+      "Der-Bergdoktor-5988550.html"
+    ],
+    "providerName": "ZDF"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "module"
+    ],
+    "domain": "zdf",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "teletext"
+    ],
+    "providerName": "ZDF"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "info"
+    ],
+    "domain": "zdf",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "ZDFinfo-3994.html"
+    ],
+    "providerName": "ZDF"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "tagesschau",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Tagesschau"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "tagesschau",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "multimedia/",
+      "livestreams/",
+      "livestreams2.html"
+    ],
+    "providerName": "Tagesschau"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "tagesschau",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "sendung/",
+      "tagesschau/",
+      "index.html"
+    ],
+    "providerName": "Tagesschau"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "wahl"
+    ],
+    "domain": "tagesschau",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "wahlen/",
+      "2011-03-27-LT-DE-BW/",
+      "index.shtml"
+    ],
+    "providerName": "Tagesschau"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "wetter"
+    ],
+    "domain": "tagesschau",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Tagesschau"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "wetter"
+    ],
+    "domain": "tagesschau",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "radarbilder"
+    ],
+    "providerName": "Tagesschau"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "zeit",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "index"
+    ],
+    "providerName": "Zeit"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "shop"
+    ],
+    "domain": "zeit",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Zeit"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "shop"
+    ],
+    "domain": "zeit",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "product/",
+      "4757-Das-Papphaus-Hier-ist-die-Fantasie-zu-Hause/",
+      "2175-Weihnachtsmarkt"
+    ],
+    "providerName": "Zeit"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "premium"
+    ],
+    "domain": "zeit",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "?wt_mc=pm.intern.fix.zeitde.fix.dach.text.epaper"
+    ],
+    "providerName": "Zeit"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "zeit",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "digital/",
+      "datenschutz/",
+      "index"
+    ],
+    "providerName": "Zeit"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "zeit",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "digital/",
+      "internet/",
+      "2013-12/",
+      "facebook-fahndung-polizei-hamburg"
+    ],
+    "providerName": "Zeit"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "zeit",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "studium/",
+      "hochschule/",
+      "2013-11/",
+      "duales-studium-ueberblick"
+    ],
+    "providerName": "Zeit"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "zeit",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "digital/",
+      "datenschutz/",
+      "2013-11/",
+      "kommentar-vorratsdaten-speicherung-koalitionsvertrag-gabriel-oslo"
+    ],
+    "providerName": "Zeit"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "stern",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Stern"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "stern",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "politik"
+    ],
+    "providerName": "Stern"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "stern",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "politik/",
+      "deutschland/",
+      "grosse-koalition-schoenheits-ops-bei-jugendlichen-sollen-verboten-werden-2074778.html"
+    ],
+    "providerName": "Stern"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "stern",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "panorama/",
+      "forscher-komet-ison-existiert-nicht-mehr-2074935.html"
+    ],
+    "providerName": "Stern"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "stern",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "panorama/",
+      "tier-nachwuchs-in-washington-zoo-tauft-panda-maedchen-bao-bao-2074849.html"
+    ],
+    "providerName": "Stern"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "stern",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "sport/",
+      "fussball/",
+      "wm-auslosung-das-grosse-zittern-vor-den-toepfen-2074815.html"
+    ],
+    "providerName": "Stern"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "stern",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "kultur/",
+      "neuer-krimi-im-sueden-heike-makatsch-soll-tatort-kommissarin-werden-2074831.html"
+    ],
+    "providerName": "Stern"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "stern",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "lifestyle"
+    ],
+    "providerName": "Stern"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "stern",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "digital/",
+      "wunschzettel-auf-twitter-weihnachtsmann-bekommt-amazon-link-2074892.html"
+    ],
+    "providerName": "Stern"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "stern",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "wissen/",
+      "mensch/",
+      "psychoanalyse-test-verstehen-sie-freud-1560012.html"
+    ],
+    "providerName": "Stern"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "stern",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "digital/",
+      "spiele/",
+      "amazon-90311362t.html"
+    ],
+    "providerName": "Stern"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "shop"
+    ],
+    "domain": "stern",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "?onwewe=0602"
+    ],
+    "providerName": "Stern"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "rtl",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "cms/",
+      "index.html"
+    ],
+    "providerName": "RTL"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "rtl",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "cms/",
+      "ratgeber/",
+      "familie.html"
+    ],
+    "providerName": "RTL"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "rtl",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "epg/",
+      "epg/",
+      "render/",
+      "date/",
+      "2013-12-05"
+    ],
+    "providerName": "RTL"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "rtl",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "cms/",
+      "sport/",
+      "formel-1/",
+      "news/",
+      "vettel-und-red-bull-raeumen-awards-ab-34f1c-3604-11-1722499.html"
+    ],
+    "providerName": "RTL"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "rtl",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "cms/",
+      "ratgeber/",
+      "weihnachtsplaetzchen-leckere-rezepte-zum-nachbacken-34c93-6e0f-61-1718126.html"
+    ],
+    "providerName": "RTL"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "rtl",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "cms/",
+      "unterhaltung/",
+      "kino.html"
+    ],
+    "providerName": "RTL"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "rtl",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "cms/",
+      "unterhaltung/",
+      "kino/",
+      "filmkritik/",
+      "die-eiskoenigin-hat-kein-herz-aus-eis-33fba-2fd9-14-1718648.html"
+    ],
+    "providerName": "RTL"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "bing",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [],
+    "providerName": "Bing"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "bing",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "account/",
+      "general?meru=%252f"
+    ],
+    "providerName": "Bing"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "bing",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "account/",
+      "news?ru=%2f&restoreDefaults=1&GUID=1AC4B9D30EDF60793B6BBCDF0ADF6460&pref_sbmt=1"
+    ],
+    "providerName": "Bing"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "bing",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "?scope=images&FORM=Z9LH1"
+    ],
+    "providerName": "Bing"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "m"
+    ],
+    "domain": "bing",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [],
+    "providerName": "Bing"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "m"
+    ],
+    "domain": "bing",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "settings?form=BLXBAD&IIG=f51298c7b6b04fbbb937cd3846c5b052&kval=3.1&AppNs=mSERP"
+    ],
+    "providerName": "Bing"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "kicker",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Kicker"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "kicker",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "login"
+    ],
+    "providerName": "Kicker"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "kicker",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "mobile/",
+      "startseite.html"
+    ],
+    "providerName": "Kicker"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "kicker",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "news/",
+      "basketball/",
+      "startseite.html"
+    ],
+    "providerName": "Kicker"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "kicker",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "news/",
+      "formel1/",
+      "startseite/",
+      "595993/",
+      "artikel_huelkenberg_rueckkehr-zu-force-india-perfekt.html"
+    ],
+    "providerName": "Kicker"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "kicker",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "news/",
+      "live-news/",
+      "schlagzeilen/",
+      "schlagzeilen_fussball.html"
+    ],
+    "providerName": "Kicker"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "community"
+    ],
+    "domain": "kicker",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "community/",
+      "foren/",
+      "Fusball/",
+      "F353/",
+      "msg653906.php"
+    ],
+    "providerName": "Kicker"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "fanshop"
+    ],
+    "domain": "kicker",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "kicker-sortiment/",
+      "einzelhefte.html"
+    ],
+    "providerName": "Kicker"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "fanshop"
+    ],
+    "domain": "kicker",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "kicker-sortiment/",
+      "einzelhefte/",
+      "2013/",
+      "kicker-ausgabe-096-2013-vom-25-11-2013.html"
+    ],
+    "providerName": "Kicker"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "emagazine"
+    ],
+    "domain": "kicker",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "de/",
+      "profiles/",
+      "6925623b4e1b/",
+      "editions/",
+      "SaAbDjTGp2z3mAXjHeoo"
+    ],
+    "providerName": "Kicker"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "leserservice"
+    ],
+    "domain": "kicker",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "abo-service/",
+      "leser-werben-leser-abo/",
+      "leser-werben-leser.html"
+    ],
+    "providerName": "Kicker"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "heise",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Heise"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "heise",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "tr"
+    ],
+    "providerName": "Heise"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "heise",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "foren"
+    ],
+    "providerName": "Heise"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "heise",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "download"
+    ],
+    "providerName": "Heise"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "heise",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "login?forward=http%3A%2F%2Fwww.heise.de%2F"
+    ],
+    "providerName": "Heise"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "heise",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "register?forward=http%3A%2F%2Fwww.heise.de%2F"
+    ],
+    "providerName": "Heise"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "heise",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "thema/",
+      "Xbox"
+    ],
+    "providerName": "Heise"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "heise",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "developer/",
+      "meldung/",
+      "Chrome-Apps-fuer-Android-und-iOS-Google-arbeitet-an-Entwickler-Toolkit-2060063.html"
+    ],
+    "providerName": "Heise"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "tarifrechner"
+    ],
+    "domain": "heise",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "dsl.php"
+    ],
+    "providerName": "Heise"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "tarifrechner"
+    ],
+    "domain": "heise",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "dsl.php?phpurl=dsl-rechner.php&vxcp_profile=private&vxcp_phonePrefix=030&vxcp_minSpeed=16000&vxcp_contractDuration=24&vxcp_telephonyFlatIncluded=flatrate&vxcp_onlyProductsWithTvOptions=false&vxcp_includeVoucher=true&vxcp_includeSwitcherBonus=true&vxcp_accessModeDsl=true&vxcp_onlyProductsWithoutTrafficLimitation=true&vxcp_accessModeCable=true&vxcp_accessModeLte=true&vxcp_accessModeSat=true"
+    ],
+    "providerName": "Heise"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "shop"
+    ],
+    "domain": "heise",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "katalog/",
+      "raspberry-pi-hardware-projects-4"
+    ],
+    "providerName": "Heise"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "welt",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Welt"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "welt",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "wirtschaft/",
+      "energie"
+    ],
+    "providerName": "Welt"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "welt",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "sonderthemen/",
+      "mittelstand/",
+      "forschung/",
+      "article121759332/",
+      "Firmen-fordern-gerechtere-Forschungsfoerderung.html"
+    ],
+    "providerName": "Welt"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "iqtest",
+      "apps"
+    ],
+    "domain": "welt",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Welt"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "top500"
+    ],
+    "domain": "welt",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "download/",
+      "2012"
+    ],
+    "providerName": "Welt"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "tarife"
+    ],
+    "domain": "welt",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "gas/",
+      "?phpurl=gasnachrichten.php?vxcp_NewsID=1059"
+    ],
+    "providerName": "Welt"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "reisewetter"
+    ],
+    "domain": "welt",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "australien-und-ozeanien.asp"
+    ],
+    "providerName": "Welt"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "sueddeutsche",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Sueddeutsche"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "sueddeutsche",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "sport/",
+      "dfb-pokal-emre-can-schiesst-leverkusen-ins-viertelfinale-1.1835955"
+    ],
+    "providerName": "Sueddeutsche"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "sueddeutsche",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "news?search=&dep[]=digital&all[]=typ&all[]=sys&all[]=time"
+    ],
+    "providerName": "Sueddeutsche"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "stellenmarkt"
+    ],
+    "domain": "sueddeutsche",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Sueddeutsche"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "stellenmarkt"
+    ],
+    "domain": "sueddeutsche",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "index.php/",
+      "index.php?action=job/",
+      "b2c/",
+      "oss/",
+      "sdetail&curDS=721910"
+    ],
+    "providerName": "Sueddeutsche"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "immobilienmarkt"
+    ],
+    "domain": "sueddeutsche",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Sueddeutsche"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "immobilienmarkt"
+    ],
+    "domain": "sueddeutsche",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "Gewerbe/",
+      "mieten/",
+      "Fuerth/",
+      "REPRAeSENTATIVES_ERDGESCHOSS-BUeRO_IN_GUTER_LAUFLAGE_ZWISCHEN_FUeRTHER_FREIHEIT_UND_HAUPTBAHNHOF/",
+      "11804375?comeFromTL=1"
+    ],
+    "providerName": "Sueddeutsche"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "reiseangebote"
+    ],
+    "domain": "sueddeutsche",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Sueddeutsche"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "reiseangebote"
+    ],
+    "domain": "sueddeutsche",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "details/",
+      "autoreise-geiranger-berge-tour/",
+      "21883"
+    ],
+    "providerName": "Sueddeutsche"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "szshop"
+    ],
+    "domain": "sueddeutsche",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "Spielen/",
+      "SZ-Magazin/",
+      "Gemischtes-Doppel-fuer-Kinder.html"
+    ],
+    "providerName": "Sueddeutsche"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "anzeigen-buchen"
+    ],
+    "domain": "sueddeutsche",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "adweb/",
+      "anzeigen.do?opcode=start&sessionreset=true&init=MarktauswahlIC&TYP=IC&TYP5=&Aktion=AKTIONMIET"
+    ],
+    "providerName": "Sueddeutsche"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "focus",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Focus"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "focus",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "focustv"
+    ],
+    "providerName": "Focus"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "focus",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "finanzen/",
+      "news/",
+      "immer-weniger-praemien-im-automarkt-fuer-diese-neuwagen-gibt-es-noch-fette-rabatte_id_3452185.html"
+    ],
+    "providerName": "Focus"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "focus",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "digital/",
+      "handy/",
+      "doppel-display-yotaphone-im-videotest-das-smartphone-mit-dem-e-ink-display_id_3454053.html"
+    ],
+    "providerName": "Focus"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "gutefrage",
+    "topLevelDomain": "net",
+    "port": "",
+    "path": [],
+    "providerName": "Gutefrage"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "gutefrage",
+    "topLevelDomain": "net",
+    "port": "",
+    "path": [
+      "ueber_uns"
+    ],
+    "providerName": "Gutefrage"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "gutefrage",
+    "topLevelDomain": "net",
+    "port": "",
+    "path": [
+      "auszeichnung/",
+      "das-beliebteste-waschmittel/",
+      "persil/",
+      "1/",
+      "date"
+    ],
+    "providerName": "Gutefrage"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "gutefrage",
+    "topLevelDomain": "net",
+    "port": "",
+    "path": [
+      "frage/",
+      "kann-man-sich-nur-von-milch-ernaehren-und-wie-lange-gefaehrlich-es-zu-probieren"
+    ],
+    "providerName": "Gutefrage"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "login"
+    ],
+    "domain": "yahoo",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "config/",
+      "login_verify2?.intl=de&.src=ym"
+    ],
+    "providerName": "Yahoo"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "edit",
+      "europe"
+    ],
+    "domain": "yahoo",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "registration?.intl=de&.lang=de-DE&.pd=ym_ver%253D0%2526c%253D%2526ivt%253D%2526sg%253D&new=1&.done=http%3A/",
+      "mail.yahoo.com&.src=ym&.v=0&.u=e7frjk99a0mcv&partner=&.partner=&pkg=&stepid=&.p=&promo=&.last="
+    ],
+    "providerName": "Yahoo"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "de",
+      "eurosport"
+    ],
+    "domain": "yahoo",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "fantasy/",
+      "premier-league"
+    ],
+    "providerName": "Yahoo"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "de",
+      "nachrichten"
+    ],
+    "domain": "yahoo",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [],
+    "providerName": "Yahoo"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "de",
+      "nachrichten"
+    ],
+    "domain": "yahoo",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "fotos/",
+      "hyperrealistisches-bodypainting-slideshow"
+    ],
+    "providerName": "Yahoo"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "de",
+      "lifestyle"
+    ],
+    "domain": "yahoo",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "blogs/",
+      "fit-gesund/",
+      "tipps-für-den-saunagang-schwitzen-sie-sich-gesund-162145118.html"
+    ],
+    "providerName": "Yahoo"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "bild",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Bild"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "bild",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "bild-plus/",
+      "geld/",
+      "wirtschaft/",
+      "geldanlage/",
+      "wein-briefmarken-oldtimer-welche-geldanlage-lohnt-sich-33446148,view=conversionToLogin.bild.html"
+    ],
+    "providerName": "Bild"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "bild",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "themen/",
+      "uebersicht/",
+      "news/",
+      "themnuebersicht-ressort-news-31813226.bild.html"
+    ],
+    "providerName": "Bild"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "spiegel",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Spiegel"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "spiegel",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "kultur/",
+      "kino"
+    ],
+    "providerName": "Spiegel"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "forum"
+    ],
+    "domain": "spiegel",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Spiegel"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "forum"
+    ],
+    "domain": "spiegel",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "f11/",
+      "wie-schlagen-sich-die-deutschen-alpinskifahrer-der-wm-saison-22801.html"
+    ],
+    "providerName": "Spiegel"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "forum"
+    ],
+    "domain": "spiegel",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "f6/",
+      "internet-beduerfen-jugendliche-mehr-anleitung-fuer-das-surfen-im-internet-18732.html"
+    ],
+    "providerName": "Spiegel"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "forum"
+    ],
+    "domain": "spiegel",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "f6/",
+      "amazon-facebook-google-apple-%96-sind-die-grossen-vier-fluch-oder-segen-fuer-das-inter-49253.html"
+    ],
+    "providerName": "Spiegel"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "abo"
+    ],
+    "domain": "spiegel",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "?b=SPOHNAVABO&utm_source=spon&utm_medium=text&utm_content=abo&utm_campaign=navi"
+    ],
+    "providerName": "Spiegel"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "de"
+    ],
+    "domain": "wikipedia",
+    "topLevelDomain": "org",
+    "port": "",
+    "path": [
+      "wiki/",
+      "Wikipedia_Diskussion:Hauptseite"
+    ],
+    "providerName": "Wikipedia"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "de"
+    ],
+    "domain": "wikipedia",
+    "topLevelDomain": "org",
+    "port": "",
+    "path": [
+      "w/",
+      "index.php?title=Spezial:Anmelden&returnto=Wikipedia%3AHauptseite&returntoquery=&type=signup&fromhttp=1"
+    ],
+    "providerName": "Wikipedia"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "de"
+    ],
+    "domain": "wikipedia",
+    "topLevelDomain": "org",
+    "port": "",
+    "path": [
+      "w/",
+      "index.php?title=Spezial:Anmelden&returnto=Wikipedia%3AHauptseite&returntoquery=&fromhttp=1"
+    ],
+    "providerName": "Wikipedia"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "la"
+    ],
+    "domain": "wikipedia",
+    "topLevelDomain": "org",
+    "port": "",
+    "path": [
+      "wiki/",
+      "Vicipaedia:Pagina_prima"
+    ],
+    "providerName": "Wikipedia"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "it"
+    ],
+    "domain": "wikipedia",
+    "topLevelDomain": "org",
+    "port": "",
+    "path": [
+      "wiki/",
+      "Pagina_principale"
+    ],
+    "providerName": "Wikipedia"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Bayerisches Landesamt fuer Steuern [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "elster",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Elster"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Bayerisches Landesamt fuer Steuern [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "elster",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "lohi_home.php"
+    ],
+    "providerName": "Elster"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Bayerisches Landesamt fuer Steuern [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "elster",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "anwenderforum/",
+      "index.php"
+    ],
+    "providerName": "Elster"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Bayerisches Landesamt fuer Steuern [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "elster",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "anwenderforum/",
+      "forumdisplay.php?33-Elektronische-Lohnsteuerbescheinigung-(ElsterLohn)&s=705eb1fb27810c9f3ddb607cb5f100d1"
+    ],
+    "providerName": "Elster"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Bayerisches Landesamt fuer Steuern [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "elster",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "anwenderforum/",
+      "forumdisplay.php?36-Sicherheit&s=705eb1fb27810c9f3ddb607cb5f100d1"
+    ],
+    "providerName": "Elster"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [],
+    "domain": "bundestag",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Bundestag"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [],
+    "domain": "bundestag",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "bundestag/",
+      "index.jsp"
+    ],
+    "providerName": "Bundestag"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [],
+    "domain": "bundestag",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "service/",
+      "glossar/",
+      "A/",
+      "abgeordnete.html"
+    ],
+    "providerName": "Bundestag"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [],
+    "domain": "bundestag",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "bundestag/",
+      "abgeordnete18/",
+      "listeFraktionen/",
+      "index.html"
+    ],
+    "providerName": "Bundestag"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "bundestag",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "Mediathek/",
+      "index.jsp?categorie=Kurzbeiträge&action=search&mask=search&contentArea=common&instance=m187"
+    ],
+    "providerName": "Bundestag"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "suche"
+    ],
+    "domain": "bundestag",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "searchCatDatenhandbuch.do;jsessionid=64AC70FDA2EFAC9B71327148C1C1A16A?resultsPerPage=10&resultsCategoryFilter=datenhandbuch&tab=Datenhandbuch&oneCategoryOnlySearch=true&useSearchAllFallback=false&queryAll=&resultsSubCategoryFilter=db03&resultsSubCategoryFilter=db10&resultsSubCategoryFilter=db17&resultsSubCategoryFilter=db11&language="
+    ],
+    "providerName": "Bundestag"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "hessen",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Hessen"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "hessen",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "fuer-buerger"
+    ],
+    "providerName": "Hessen"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "hessen",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "newsletter/",
+      "anmeldung/",
+      "immer-auf-dem-neuesten-stand"
+    ],
+    "providerName": "Hessen"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "hessen",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "presse/",
+      "pressemitteilung/",
+      "der-wald-hessen-hat-sich-diesem-jahr-gut-entwickelt-0"
+    ],
+    "providerName": "Hessen"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "berlin",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Berlin"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "berlin",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "rubrik/",
+      "politik-und-verwaltung"
+    ],
+    "providerName": "Berlin"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "berlin",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "buergeraktiv/",
+      "ehrenamtsnetz/",
+      "vereine/",
+      "index.cfm?dateiname=organisation_suche_buergeraktiv.cfm&anwender_id=5"
+    ],
+    "providerName": "Berlin"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "berlin",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "special/",
+      "shopping/",
+      "neueroeffnung/",
+      "3274329-1965219-diane-wednesday-popupstore-ab-05-dezembe.html"
+    ],
+    "providerName": "Berlin"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "BerlinOnline Stadtportal GmbH & Co.KG [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "service"
+    ],
+    "domain": "berlin",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Berlin"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "BerlinOnline Stadtportal GmbH & Co.KG [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "service"
+    ],
+    "domain": "berlin",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "standorte/",
+      "kfz-zulassungsstellen"
+    ],
+    "providerName": "Berlin"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [],
+    "domain": "arbeitsagentur",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Arbeitsagentur"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "mobil"
+    ],
+    "domain": "arbeitsagentur",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Arbeitsagentur"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "mobil"
+    ],
+    "domain": "arbeitsagentur",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "2o6qkb1c0d0d"
+    ],
+    "providerName": "Arbeitsagentur"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "arbeitsagentur",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "nn_27908/",
+      "zentraler-Content/",
+      "A01-Allgemein-Info/",
+      "A015-Oeffentlichkeitsarbeit/",
+      "Allgemein/",
+      "Arbeitsmarkt-Startseite.html"
+    ],
+    "providerName": "Arbeitsagentur"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "arbeitsagentur",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "nn_26338/",
+      "Navigation/",
+      "zentral/",
+      "Buerger/",
+      "Studium/",
+      "Abiturientenausbildung/",
+      "Abiturientenausbildung-Nav.html"
+    ],
+    "providerName": "Arbeitsagentur"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "jobboerse"
+    ],
+    "domain": "arbeitsagentur",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "vamJB/",
+      "anmeldung.html;jsessionid=nNBTSghb202LPQtGSCRpRZfcJ3pstj6dmdX90G3pzncZ2mzNrc8K!1647202659"
+    ],
+    "providerName": "Arbeitsagentur"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "vdb"
+    ],
+    "domain": "arbeitsagentur",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "vdb/",
+      "faces/",
+      "index.jspx?_afrLoop=800907904288000&_afrWindowMode=0&_adf.ctrl-state=uif7ikoor_4"
+    ],
+    "providerName": "Arbeitsagentur"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "eu"
+    ],
+    "domain": "battle",
+    "topLevelDomain": "net",
+    "port": "",
+    "path": [
+      "wow/",
+      "de/",
+      "game"
+    ],
+    "providerName": "Battle.net"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "eu"
+    ],
+    "domain": "battle",
+    "topLevelDomain": "net",
+    "port": "",
+    "path": [
+      "wow/",
+      "de/",
+      "forum"
+    ],
+    "providerName": "Battle.net"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "eu"
+    ],
+    "domain": "battle",
+    "topLevelDomain": "net",
+    "port": "",
+    "path": [
+      "wow/",
+      "de/",
+      "forum/",
+      "topic/",
+      "8427544186?page=43#849"
+    ],
+    "providerName": "Battle.net"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "eu"
+    ],
+    "domain": "battle",
+    "topLevelDomain": "net",
+    "port": "",
+    "path": [
+      "shop/",
+      "de/",
+      "product/",
+      "category/",
+      "digital-games?games=wow,starcraft"
+    ],
+    "providerName": "Battle.net"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "eu"
+    ],
+    "domain": "battle",
+    "topLevelDomain": "net",
+    "port": "",
+    "path": [
+      "account/",
+      "activation/",
+      "landing.html?product=WOWC&utm_medium=WoW&utm_source=internal&utm_campaign=MoP_BuyNow"
+    ],
+    "providerName": "Battle.net"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "kabeldeutschland",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Kabeldeutschland"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "kabeldeutschland",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "#"
+    ],
+    "providerName": "Kabeldeutschland"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "kabeldeutschland",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "info-service/",
+      "kontakt.html"
+    ],
+    "providerName": "Kabeldeutschland"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "kabeldeutschland",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "internet-telefon/",
+      "internet-und-telefon-50.html"
+    ],
+    "providerName": "Kabeldeutschland"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "kabeldeutschland",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "info-service/",
+      "informationen-als-download-produktinformationen.html"
+    ],
+    "providerName": "Kabeldeutschland"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "kabeldeutschland",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "digital-fernsehen/",
+      "tv-kabelanschluss/",
+      "kabelanschluss-komfort-premium-hd.html"
+    ],
+    "providerName": "Kabeldeutschland"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "unitymedia",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Unitymedia"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "unitymedia",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "privatkunden/",
+      "kombipakete"
+    ],
+    "providerName": "Unitymedia"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "smartphones"
+    ],
+    "domain": "unitymedia",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Unitymedia"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "smartphones"
+    ],
+    "domain": "unitymedia",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "Samsung-I8190-Galaxy-S3-mini.html"
+    ],
+    "providerName": "Unitymedia"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "unitymedia",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "content/",
+      "www-unitymedia-de/",
+      "de/",
+      "privatkunden/",
+      "beratung/",
+      "entscheiden.html"
+    ],
+    "providerName": "Unitymedia"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "t-mobile",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "privat/",
+      "0,,,00%2bde-DE.html"
+    ],
+    "providerName": "T-Mobile"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "t-mobile",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "junge-leute/",
+      "apps-und-downloads/",
+      "0,24515,27744-_,00.html"
+    ],
+    "providerName": "T-Mobile"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "t-mobile",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "suche/",
+      "1,1840,2013-_,00.html?qt=smartphone&vgn_form_encoding=ISO-8859-1"
+    ],
+    "providerName": "T-Mobile"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "downloads"
+    ],
+    "domain": "t-mobile",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "area/",
+      "games"
+    ],
+    "providerName": "T-Mobile"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "downloads"
+    ],
+    "domain": "t-mobile",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "area/",
+      "games/",
+      "category/",
+      "top_games_ab_2_99/",
+      "product/",
+      "championship_karting_2012"
+    ],
+    "providerName": "T-Mobile"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "aol",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [],
+    "providerName": "AOL"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "aol",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "lifestyle/",
+      "?icid=gnavbar_living_maing14"
+    ],
+    "providerName": "AOL"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "reader"
+    ],
+    "domain": "aol",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "?icid=gnavbar_reader_maing14"
+    ],
+    "providerName": "AOL"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "new"
+    ],
+    "domain": "aol",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "productsweb/",
+      "?promocode=827692&ncid=txtlnkuswebr00000073"
+    ],
+    "providerName": "AOL"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "AOL Inc. [US]",
+    "protocol": "https",
+    "subDomains": [
+      "my",
+      "screenname"
+    ],
+    "domain": "aol",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "_cqr/",
+      "login/",
+      "login.psp?sitedomain=www.aim.com&offerId=aim-sm&siteState=OrigUrl%3Dhttp%3A%2F%2Fwww.aim.com%2Fpopup"
+    ],
+    "providerName": "AOL"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "on"
+    ],
+    "domain": "aol",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "channel/",
+      "aol-originals?icid=top_nav_category_AOL%20Originals"
+    ],
+    "providerName": "AOL"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "arcor",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Arcor"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "arcor",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "content/",
+      "aktuell/",
+      "thema_des_tages/",
+      "1675905,1,Sturm-erreicht-Höhepunkt-am-Nachmittag,content.html"
+    ],
+    "providerName": "Arcor"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "arcor",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "content/",
+      "digital/",
+      "internet/",
+      "webratgeber/",
+      "1671909,1,Sicher-im-Internet-einkaufen,content.html"
+    ],
+    "providerName": "Arcor"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "arcor",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "content/",
+      "themensuche/",
+      "0,80237,letter,M.html"
+    ],
+    "providerName": "Arcor"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "arcor",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "login/",
+      "login.jsp"
+    ],
+    "providerName": "Arcor"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "o2online",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "O2online"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "o2online",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "eshop/",
+      "katalog/",
+      "privatkunden/",
+      "handy"
+    ],
+    "providerName": "O2online"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "o2online",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "eshop/",
+      "tarif/",
+      "detail/",
+      "privatkunden/",
+      "o2-blue-basic/",
+      "tarif-ohne-handy?o2_type=goto&o2_label=code/",
+      "tarife/",
+      "smartphone-tarife/",
+      "o2-blue-basic-details"
+    ],
+    "providerName": "O2online"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "o2online",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "auth/",
+      "passwordForgotten"
+    ],
+    "providerName": "O2online"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "login"
+    ],
+    "domain": "o2online",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "auth/",
+      "passwordForgotten/",
+      "dsl-lte-kennwort-vergessen"
+    ],
+    "providerName": "O2online"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "hilfe"
+    ],
+    "domain": "o2online",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "t5/",
+      "o2-More/",
+      "tkb-p/",
+      "o2_More%40tkb"
+    ],
+    "providerName": "O2online"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "o2online",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "eticket/",
+      "interessenten;jsessionid=5AA82BF58CF89BE59C1B366109BF9660?0"
+    ],
+    "providerName": "O2online"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Vodafone GmbH [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "vodafone",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Vodafone"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Vodafone GmbH [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "vodafone",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "privat/",
+      "tarife/",
+      "young.html"
+    ],
+    "providerName": "Vodafone"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "forum"
+    ],
+    "domain": "vodafone",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "t5/",
+      "Hardware/",
+      "W-Lan-Übertragungsrate-1MB-Mit-dem-Laptop-um-die-50-Warum/",
+      "td-p/",
+      "539362"
+    ],
+    "providerName": "Vodafone"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "hilfe"
+    ],
+    "domain": "vodafone",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "system/",
+      "selfservice.controller?CONFIGURATION=1003&PARTITION_ID=1&CMD=STARTPAGE&USERTYPE=1&LANGUAGE=de&COUNTRY=de&requestedPage=DevicePage&yourDevice=607234"
+    ],
+    "providerName": "Vodafone"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Vodafone GmbH [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "vodafone",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "ussa/",
+      "login/",
+      "login.ftel?goto=https%3A%2F%2Fwww.vodafone.de%2Fussa%2Flink%2FQUICKCHECKACTIV%3FdeepLinkText%3DQuickCheck&deepLinkId=QUICKCHECKACTIV&deepLinkText=QuickCheck"
+    ],
+    "providerName": "Vodafone"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Vodafone GmbH [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "shop"
+    ],
+    "domain": "vodafone",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "Shop/",
+      "tarifberater/",
+      "daten"
+    ],
+    "providerName": "Vodafone"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "1und1",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "1und1"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "hosting"
+    ],
+    "domain": "1und1",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "cms-hosting"
+    ],
+    "providerName": "1und1"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "1und1",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "login?linkId=hd.nav.login"
+    ],
+    "providerName": "1und1"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "1&1 Internet AG [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "dsl"
+    ],
+    "domain": "1und1",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "?linkId=hd.subnav.dslflatrates-uebersicht&ps_id=P182803601&ucuoId=PUPS:def.EUE.DE-20131205130059-04D07C67A8AA6EAD953CC0C01DAEC328.TCpfix112b"
+    ],
+    "providerName": "1und1"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "1&1 Internet AG [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "mobile"
+    ],
+    "domain": "1und1",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "?linkId=hd.subnav.allnetflattarife&ps_id=P182803601&ucuoId=PUPS:def.EUE.DE-20131205130059-04D07C67A8AA6EAD953CC0C01DAEC328.TCpfix112b"
+    ],
+    "providerName": "1und1"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "homepage"
+    ],
+    "domain": "1und1",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "homepage-vermarktung?linkId=hd.subnav.homepage-vermarktung&ps_id=P182803601&ucuoId=PUPS:def.EUE.DE-20131205130059-04D07C67A8AA6EAD953CC0C01DAEC328.TCpfix112b"
+    ],
+    "providerName": "1und1"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "telekom",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Telekom"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "telekom",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "privatkunden/",
+      "internet"
+    ],
+    "providerName": "Telekom"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "telekom",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "fuer-privatkunden/",
+      "hilfe-und-service/",
+      "hilfe-bei-stoerungen;sid=_mKA2sX-5jGf2pdeknCQbs77cDzjxWMPMjVpnVXf_uRHOYrOZfeZG7fIcsPDrg=="
+    ],
+    "providerName": "Telekom"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "telekom",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "is-bin/",
+      "INTERSHOP.enfinity/",
+      "WFS/",
+      "EKI-PK-Site/",
+      "de_DE/",
+      "-/",
+      "EUR/",
+      "ViewCategoryTheme-Start?ServiceboxCatID=vdsl-verfuegbarkeit-pruefen&KeywordPath=katalog%2Fservicebox%2Fberatung%2Fvdsl%2Fvdsl-verfuegbarkeit"
+    ],
+    "providerName": "Telekom"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Deutsche Telekom AG [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "login",
+      "idm"
+    ],
+    "domain": "telekom",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "toid/",
+      "login.cgp?tid=c1BvXe9HZJQFH1wh6e9P7liD"
+    ],
+    "providerName": "Telekom"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "favoriten"
+    ],
+    "domain": "t-online",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "dashboard/",
+      "index.html?authenticate=false"
+    ],
+    "providerName": "T-online"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "telekom",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "is-bin/",
+      "INTERSHOP.enfinity/",
+      "WFS/",
+      "EKI-PK-Site/",
+      "de_DE/",
+      "-/",
+      "EUR/",
+      "ViewRegister-Start"
+    ],
+    "providerName": "Telekom"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "t-online",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "T-online"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "t-online",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "unterhaltung"
+    ],
+    "providerName": "T-online"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "t-online",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "spiele/",
+      "id_66854778/",
+      "professor-layton-und-das-vermaechtnis-von-aslant-fuer-nintendo-3ds-im-test.html"
+    ],
+    "providerName": "T-online"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "telefonbuch"
+    ],
+    "domain": "t-online",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "T-online"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "telefonbuch"
+    ],
+    "domain": "t-online",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "index.php?SearchForm%5Bsubject%5D=max+mustermann&SearchForm%5Blocation%5D=&r=tOnline%2FshowDasOertlicheDe"
+    ],
+    "providerName": "T-online"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "t-online",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "handy/",
+      "smartphone/",
+      "id_66844860/",
+      "yotaphone-vorgestellt-das-android-phone-mit-den-zwei-bildschirmen.html"
+    ],
+    "providerName": "T-online"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "de"
+    ],
+    "domain": "dawanda",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [],
+    "providerName": "Dawanda"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "de"
+    ],
+    "domain": "dawanda",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "account/",
+      "register"
+    ],
+    "providerName": "Dawanda"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "de"
+    ],
+    "domain": "dawanda",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "cart/",
+      "show"
+    ],
+    "providerName": "Dawanda"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "de"
+    ],
+    "domain": "dawanda",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "vergoldeter-schmuck/",
+      "?sort_by=newest_products&in_special=1"
+    ],
+    "providerName": "Dawanda"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "de"
+    ],
+    "domain": "dawanda",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "cms/",
+      "c/",
+      "de/",
+      "Verkauferportal/",
+      "22-News/",
+      "557-Wichtige-Hinweise/",
+      "p2959-Neue-Shopansicht-auf-Suchergebnisseiten"
+    ],
+    "providerName": "Dawanda"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "status"
+    ],
+    "domain": "dawanda",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [],
+    "providerName": "Dawanda"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "status"
+    ],
+    "domain": "dawanda",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "post/",
+      "68767240089/",
+      "verfugbarkeitsbericht-25-11-2013-01-12-2013"
+    ],
+    "providerName": "Dawanda"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "ikea",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "de/",
+      "de"
+    ],
+    "providerName": "Ikea"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "ikea",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "ms/",
+      "de_DE/",
+      "aktivitet/",
+      "IKNY_SPLASH.html"
+    ],
+    "providerName": "Ikea"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "ikea",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "webapp/",
+      "wcs/",
+      "stores/",
+      "servlet/",
+      "OrderItemDisplay?storeId=5&langId=-3&catalogId=11001&orderId=.&priceexclvat=&newLinks=true"
+    ],
+    "providerName": "Ikea"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www",
+      "ausbildung"
+    ],
+    "domain": "ikea",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "visuellesmarketing.php"
+    ],
+    "providerName": "Ikea"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Otto (GmbH & Co. KG) [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "otto",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Otto"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Otto (GmbH & Co. KG) [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "otto",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "heimtextilien/",
+      "#"
+    ],
+    "providerName": "Otto"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Otto (GmbH & Co. KG) [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "otto",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "user/",
+      "showLoginPage?uri=%2Fuser%2Foverview&tk=1106421045&ctx=99a91f0838918ee86cf46494a153959c"
+    ],
+    "providerName": "Otto"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Zalando SE [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "zalando",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Zalando"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Zalando SE [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "zalando",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "abendgarderobe"
+    ],
+    "providerName": "Zalando"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Zalando SE [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "zalando",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "zalando-newsletter"
+    ],
+    "providerName": "Zalando"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "jobs"
+    ],
+    "domain": "zalando",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "jobs/",
+      "fashion#jobsearch"
+    ],
+    "providerName": "Zalando"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Zalando SE [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "zalando",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "login"
+    ],
+    "providerName": "Zalando"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Zalando SE [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "zalando",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "faq/",
+      "?state=hilfe-zahlung-zahlungsart-rechnung"
+    ],
+    "providerName": "Zalando"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Zalando SE [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "zalando",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "style-trendy-damen/",
+      "damen/",
+      "?wmc=OSM001_DS_ins_un_in_i2.wo_in_URLstyle-trendy-damen_damen_URL_394x195_38_de"
+    ],
+    "providerName": "Zalando"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "mobile",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Mobile"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "eBay, Inc. [US]",
+    "protocol": "https",
+    "subDomains": [
+      "login"
+    ],
+    "domain": "mobile",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "cas/",
+      "login?locale=de"
+    ],
+    "providerName": "Mobile"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "mobile",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "home/",
+      "mymobile/",
+      "overview.html"
+    ],
+    "providerName": "Mobile"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "mobile",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "magazin/",
+      "themen/",
+      "klassiker_oldtimer_youngtimer/",
+      "2013/",
+      "nostalgie_seat_ronda_crono_2000.html"
+    ],
+    "providerName": "Mobile"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "suchen"
+    ],
+    "domain": "mobile",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "auto/",
+      "search.html?scopeId=C&isSearchRequest=true&sortOption.sortBy=price.consumerGrossEuro&lang=de&ambitCountry="
+    ],
+    "providerName": "Mobile"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Apple inc. [US]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "apple",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [],
+    "providerName": "Apple"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Apple inc. [US]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "apple",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "apple-events/",
+      "october-2013"
+    ],
+    "providerName": "Apple"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Apple inc. [US]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "apple",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "search/",
+      "?q=iphone&section=global&geo=us"
+    ],
+    "providerName": "Apple"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "store"
+    ],
+    "domain": "apple",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "us/",
+      "buy-mac/",
+      "imac?product=ME086LL/",
+      "A&step=config"
+    ],
+    "providerName": "Apple"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "secure1",
+      "store"
+    ],
+    "domain": "apple",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "us/",
+      "sign_in/",
+      "order?c=aHR0cHM6Ly9zZWN1cmUxLnN0b3JlLmFwcGxlLmNvbS91cy9hY2NvdW50L2hvbWV8MWFvczVhOTVhZjk3YzFhOTZjM2U3ZTA2YWE2NmFmOTMxNWNhZjg2MzQ0ZTg&r=SCKFUHKXACXX7DYHYT9JT7JJTAPAXHFKH&s=aHR0cHM6Ly9zZWN1cmUxLnN0b3JlLmFwcGxlLmNvbS91cy9vcmRlci9saXN0P2hpc3Q9OTB8MWFvc2RlOTRkMmI1ZGJmN2FkZjU0ODUxMWFmZmQ0NzJlM2QxMzc2MDM2ZGQ&t=SXYD4UDAPXU7P7KXF"
+    ],
+    "providerName": "Apple"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "immobilienscout24",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "wohnen/",
+      "haustypen.html"
+    ],
+    "providerName": "Immobilienscout24"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "immobilienscout24",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "sso/",
+      "register.go?returnUrl=http%3A%2F%2Fwww.immobilienscout24.de%2Fde%2Ffinden%2Fgewerbe%2Findex.jsp&style=is24&is24EC=IS24"
+    ],
+    "providerName": "Immobilienscout24"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "amazon",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Amazon"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "amazon",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "gp/",
+      "help/",
+      "customer/",
+      "display.html/",
+      "ref=ap_frn_condition_of_use?ie=UTF8&nodeId=505048"
+    ],
+    "providerName": "Amazon"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "amazon",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "ap/",
+      "register?_encoding=UTF8&openid.assoc_handle=deflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.de%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dgno_newcust"
+    ],
+    "providerName": "Amazon"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "partnernet"
+    ],
+    "domain": "amazon",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Amazon"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "partnernet"
+    ],
+    "domain": "amazon",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "gp/",
+      "associates/",
+      "join/",
+      "compensation.html"
+    ],
+    "providerName": "Amazon"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "services"
+    ],
+    "domain": "amazon",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "programme/",
+      "online-verkaufen/",
+      "so-funktionierts.html?ld=AZDESOAFooter"
+    ],
+    "providerName": "Amazon"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "ebay",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Ebay"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "ebay",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "rpp/",
+      "deals"
+    ],
+    "providerName": "Ebay"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "eBay Inc, [US]",
+    "protocol": "https",
+    "subDomains": [
+      "signin"
+    ],
+    "domain": "ebay",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "ws/",
+      "eBayISAPI.dll?SignIn&ru=http%3A%2F%2Fwww.ebay.de%2F"
+    ],
+    "providerName": "Ebay"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Frankfurter Sparkasse [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "frankfurter-sparkasse",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "online-produkte/",
+      "homepage/",
+      "index.php?n=%2Fonline-produkte%2F"
+    ],
+    "providerName": "Frankfurter Sparkasse"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Frankfurter Sparkasse [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "frankfurter-sparkasse",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "ihre_sparkasse/",
+      "Knax_Klub/",
+      "Contentseite_6/",
+      "index.php?n=%2Fihre_sparkasse%2FKnax_Klub%2FContentseite_6%2F"
+    ],
+    "providerName": "Frankfurter Sparkasse"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Frankfurter Sparkasse [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "frankfurter-sparkasse",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "module/",
+      "sicherheit/",
+      "pc/",
+      "index.php"
+    ],
+    "providerName": "Frankfurter Sparkasse"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Frankfurter Sparkasse [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "bankingportal"
+    ],
+    "domain": "frankfurter-sparkasse",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "portal/",
+      "portal/",
+      "Starten?IID=50050201&AID=IPSTANDARD&n=/",
+      "onlinebanking/",
+      "startseite"
+    ],
+    "providerName": "Frankfurter Sparkasse"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Frankfurter Sparkasse [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "bankingportal"
+    ],
+    "domain": "frankfurter-sparkasse",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "portal/",
+      "portal"
+    ],
+    "providerName": "Frankfurter Sparkasse"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Stadt- und Kreis-Sparkasse Darmstadt [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "sparkasse-darmstadt",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "privatkunden/",
+      "index.php?n=%2Fprivatkunden%2F"
+    ],
+    "providerName": "Sparkasse Darmstadt"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Stadt- und Kreis-Sparkasse Darmstadt [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "sparkasse-darmstadt",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "module/",
+      "warnungen/",
+      "warnungen/",
+      "index.php?n=%2Fmodule%2Fwarnungen%2Faktuell%2F"
+    ],
+    "providerName": "Sparkasse Darmstadt"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Stadt- und Kreis-Sparkasse Darmstadt [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "bankingportal"
+    ],
+    "domain": "sparkasse-darmstadt",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "portal/",
+      "portal/",
+      "Starten?IID=50850150&AID=IPSTANDARD&n=/",
+      "onlinebanking/",
+      "startseite"
+    ],
+    "providerName": "Sparkasse Darmstadt"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Stadt- und Kreis-Sparkasse Darmstadt [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "bankingportal"
+    ],
+    "domain": "sparkasse-darmstadt",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "portal/",
+      "portal"
+    ],
+    "providerName": "Sparkasse Darmstadt"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "Deutsche Kreditbank Aktiengesellschaft [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "dkb",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "index.html"
+    ],
+    "providerName": "DKB"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "Deutsche Kreditbank Aktiengesellschaft [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "dkb",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "privatkunden/",
+      "dkb_cash"
+    ],
+    "providerName": "DKB"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "Deutsche Kreditbank Aktiengesellschaft [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "dkb",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "kontakt"
+    ],
+    "providerName": "DKB"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "Deutsche Kreditbank Aktiengesellschaft [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "dkb",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "groups/",
+      "karriere/",
+      "stellensuche.html"
+    ],
+    "providerName": "DKB"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "Deutsche Kreditbank Aktiengesellschaft [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "banking"
+    ],
+    "domain": "dkb",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "portal/",
+      "portal"
+    ],
+    "providerName": "DKB"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "Deutsche Kreditbank Aktiengesellschaft [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "dkb",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "privatkunden/",
+      "dkb_cash/",
+      "aktion/",
+      "kwk_nk_sotschi/",
+      "gewinnbeschreibung/",
+      "index.html"
+    ],
+    "providerName": "DKB"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Deutsche Bank AG [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "deutsche-bank",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "index.htm"
+    ],
+    "providerName": "Deutsche Bank"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Deutsche Bank AG [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "meine"
+    ],
+    "domain": "deutsche-bank",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "trxm/",
+      "db"
+    ],
+    "providerName": "Deutsche Bank"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "search"
+    ],
+    "domain": "deutsche-bank",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "search/",
+      "search"
+    ],
+    "providerName": "Deutsche Bank"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Deutsche Bank AG [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "deutsche-bank",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "de/",
+      "content/",
+      "company/",
+      "Private-and-Business-Clients.htm"
+    ],
+    "providerName": "Deutsche Bank"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Deutsche Bank AG [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "deutsche-bank",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "pfb/",
+      "content/",
+      "privatkunden/",
+      "online-mobile-banking_sicherheit.html#accordion_7587#tabset_content_tab2"
+    ],
+    "providerName": "Deutsche Bank"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Deutsche Bank AG [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "secure"
+    ],
+    "domain": "deutsche-bank",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "opra/",
+      "pbc/",
+      "internet/",
+      "process/",
+      "internet_elektronischemedien/",
+      "start.do"
+    ],
+    "providerName": "Deutsche Bank"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "comdirect bank AG [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "comdirect",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Comdirect"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "comdirect bank AG [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "comdirect",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "cms/",
+      "konto-geldanlage.html"
+    ],
+    "providerName": "Comdirect"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "comdirect bank AG [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "kunde"
+    ],
+    "domain": "comdirect",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "lp/",
+      "wt/",
+      "login"
+    ],
+    "providerName": "Comdirect"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "comdirect bank AG [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "kunde"
+    ],
+    "domain": "comdirect",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "lp/",
+      "wt/",
+      "login?cifSec=EBc4H4ePHfACpzlLaZ3IvagtRXl7GbJeRA-qh6bk5bpoxV4gxKHVJaPAzLewGV4PmrZ9kzklJ78tC2IVk3SqrjM8jN9OuEYllQ-yUiGzMs6kscw5sjGHRg"
+    ],
+    "providerName": "Comdirect"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "comdirect bank AG [DE]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "comdirect",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "cms/",
+      "depotuebertrag-leistungen.html?ad=LQAU34920202966TS0008900001102"
+    ],
+    "providerName": "Comdirect"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "mobile"
+    ],
+    "domain": "comdirect",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [],
+    "providerName": "Comdirect"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "mobile"
+    ],
+    "domain": "comdirect",
+    "topLevelDomain": "de",
+    "port": "",
+    "path": [
+      "tx/",
+      "index.jsp?ziel=kontouebersicht"
+    ],
+    "providerName": "Comdirect"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "PayPal, Inc. [US]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "paypal",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "de/",
+      "webapps/",
+      "mpp/",
+      "privatkunden"
+    ],
+    "providerName": "Paypal"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "PayPal, Inc. [US]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "paypal",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "de/",
+      "cgi-bin/",
+      "webscr?cmd=_registration-run-validated&account_type=2&country=DE&cid=MGWNA3M2236ULYNN"
+    ],
+    "providerName": "Paypal"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "PayPal, Inc. [US]",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "paypal",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "de/",
+      "cgi-bin/",
+      "webscr?cmd=_flow&SESSION=R7PURoR9iXuA5dWhBl9Lk72Jq1KhJ0zQXkBzuq_JdJ-BqT03Z9Cy-LuSaVe&dispatch=5885d80a13c0db1f8e263663d3faee8def8934b92a630e40b7fef61ab7e9fe63"
+    ],
+    "providerName": "Paypal"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "studivz",
+    "topLevelDomain": "net",
+    "port": "",
+    "path": [
+      "Default"
+    ],
+    "providerName": "Studivz"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "studivz",
+    "topLevelDomain": "net",
+    "port": "",
+    "path": [
+      "Login/",
+      "e/",
+      "1"
+    ],
+    "providerName": "Studivz"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "studivz",
+    "topLevelDomain": "net",
+    "port": "",
+    "path": [
+      "l/",
+      "security/",
+      "5"
+    ],
+    "providerName": "Studivz"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "flickr",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [],
+    "providerName": "Flickr"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "flickr",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "explore"
+    ],
+    "providerName": "Flickr"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "tumblr",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [],
+    "providerName": "Tumblr"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "tumblr",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "login"
+    ],
+    "providerName": "Tumblr"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "tumblr",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "policy/",
+      "en/",
+      "terms_of_service"
+    ],
+    "providerName": "Tumblr"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [],
+    "domain": "wordpress",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [],
+    "providerName": "Wordpress"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "theme",
+      "files"
+    ],
+    "domain": "wordpress",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "2013/",
+      "10/",
+      "awesome-wordpress-theme-slideshow.jpg"
+    ],
+    "providerName": "Wordpress"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "en",
+      "support"
+    ],
+    "domain": "wordpress",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "manage-my-profile"
+    ],
+    "providerName": "Wordpress"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "en",
+      "blog"
+    ],
+    "domain": "wordpress",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "2013/",
+      "12/",
+      "04/",
+      "awesome-theme-options"
+    ],
+    "providerName": "Wordpress"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "en"
+    ],
+    "domain": "wordpress",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "wp-login.php?redirect_to=http%3A%2F%2Fen.wordpress.com%2F"
+    ],
+    "providerName": "Wordpress"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Twitter, Inc. [US]",
+    "protocol": "https",
+    "subDomains": [],
+    "domain": "twitter",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [],
+    "providerName": "Twitter"
+  },
+  {
+    "hasExtendedValidationCertificate": true,
+    "extendedValidationCertificateName": "Twitter, Inc. [US]",
+    "protocol": "https",
+    "subDomains": [],
+    "domain": "twitter",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "account/",
+      "resend_password"
+    ],
+    "providerName": "Twitter"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "support"
+    ],
+    "domain": "twitter",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "articles/",
+      "14663#"
+    ],
+    "providerName": "Twitter"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "about"
+    ],
+    "domain": "twitter",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "press/",
+      "brand-assets"
+    ],
+    "providerName": "Twitter"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "discover"
+    ],
+    "domain": "twitter",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "learn-more#follow"
+    ],
+    "providerName": "Twitter"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "blog"
+    ],
+    "domain": "twitter",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "de/",
+      "2013/",
+      "live-twittern-the-social-voice-of-germany"
+    ],
+    "providerName": "Twitter"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "business"
+    ],
+    "domain": "twitter",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "educate-your-organization-employees"
+    ],
+    "providerName": "Twitter"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "media"
+    ],
+    "domain": "twitter",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "best-practice/",
+      "account-set-up"
+    ],
+    "providerName": "Twitter"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "dev"
+    ],
+    "domain": "twitter",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [],
+    "providerName": "Twitter"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "plus"
+    ],
+    "domain": "google",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [],
+    "providerName": "Google"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "plus"
+    ],
+    "domain": "google",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "u/",
+      "0/",
+      "1105351429483593487/",
+      "posts"
+    ],
+    "providerName": "Google"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "plus"
+    ],
+    "domain": "google",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "u/",
+      "0/",
+      "11053514288948353487/",
+      "videos"
+    ],
+    "providerName": "Google"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "facebook",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [],
+    "providerName": "Facebook"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "facebook",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "photo.php?fbid=10152130243616995&set=a.10150171572291995.349167.503401994&type=1&theater"
+    ],
+    "providerName": "Facebook"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "facebook",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "settings/",
+      "?tab=privacy&privacy_source=privacy_lite"
+    ],
+    "providerName": "Facebook"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "facebook",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "max.mustermann"
+    ],
+    "providerName": "Facebook"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "facebook",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "advertising/",
+      "?campaign_id=264263327005748&placement=tad&extra_1=not-admgr-user&extra_2=AdvertisingMenu%3ACONTROL_2"
+    ],
+    "providerName": "Facebook"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "www"
+    ],
+    "domain": "facebook",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "settings?tab=applications"
+    ],
+    "providerName": "Facebook"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "secure"
+    ],
+    "domain": "facebook",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "settings?tab=payments"
+    ],
+    "providerName": "Facebook"
+  },
+  {
+    "hasExtendedValidationCertificate": false,
+    "extendedValidationCertificateName": "",
+    "protocol": "https",
+    "subDomains": [
+      "apps"
+    ],
+    "domain": "facebook",
+    "topLevelDomain": "com",
+    "port": "",
+    "path": [
+      "bejeweledblitz/",
+      "?fb_source=bookmark_apps&ref=bookmarks&count=0&fb_bmpos=3_0"
+    ],
+    "providerName": "Facebook"
+  }
+]

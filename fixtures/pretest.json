@@ -1,0 +1,261 @@
+{
+  "test_id": 1,
+  "items": [
+    {
+      "item_id": 1,
+      "type": "web",
+      "provider": "GMX",
+      "isPhishing": false,
+      "image": "pre1.jpg",
+      "copyright": "1&1 Mail & Media GmbH",
+      "meta": {
+        "extendedValidationCert": false,
+        "extendedValidationCertName": "GMX",
+        "protocol": "https",
+        "subDomain": "www",
+        "domain": "gmx",
+        "tld": "net",
+        "path": "/produkte/mail/promail/"
+      },
+      "test": 1
+    },
+    {
+      "item_id": 2,
+      "type": "web",
+      "provider": "Spiegel",
+      "isPhishing": false,
+      "image": "pre2.jpg",
+      "copyright": "SPIEGELnet GmbH",
+      "meta": {
+        "extendedValidationCert": false,
+        "extendedValidationCertName": "Spiegel",
+        "protocol": "https",
+        "subDomain": "m",
+        "domain": "spiegel",
+        "tld": "de",
+        "path": "/panorama/leute/a-937125.html#spRedirect"
+      },
+      "test": 1
+    },
+    {
+      "item_id": 3,
+      "type": "web",
+      "provider": "Chefkoch",
+      "isPhishing": false,
+      "image": "pre3.jpg",
+      "copyright": "Chefkoch GmbH",
+      "meta": {
+        "extendedValidationCert": false,
+        "extendedValidationCertName": "Chefkoch",
+        "protocol": "https",
+        "subDomain": "www",
+        "domain": "chefkoch",
+        "tld": "de",
+        "path": "/login.php"
+      },
+      "test": 1
+    },
+    {
+      "item_id": 4,
+      "type": "web",
+      "provider": "Tchibo",
+      "isPhishing": false,
+      "image": "pre4.jpg",
+      "copyright": "Tchibo GmbH",
+      "meta": {
+        "extendedValidationCert": false,
+        "extendedValidationCertName": "Tchibo",
+        "protocol": "https",
+        "subDomain": "blumen",
+        "domain": "tchibo",
+        "tld": "de",
+        "path": "/login?x=H4slAAAAAAAAAAGWAGn_AA"
+      },
+      "test": 1
+    },
+    {
+      "item_id": 5,
+      "type": "web",
+      "provider": "Wordpress",
+      "isPhishing": true,
+      "image": "pre5.jpg",
+      "copyright": "Automattic Inc.",
+      "meta": {
+        "extendedValidationCert": false,
+        "extendedValidationCertName": "Wordpress",
+        "protocol": "https",
+        "subDomain": "",
+        "domain": "130.83.162.6",
+        "tld": "",
+        "path": "/signup/"
+      },
+      "test": 1
+    },
+    {
+      "item_id": 6,
+      "type": "web",
+      "provider": "Web",
+      "isPhishing": true,
+      "image": "pre6.jpg",
+      "copyright": "1&1 Mail & Media GmbH",
+      "meta": {
+        "extendedValidationCert": false,
+        "extendedValidationCertName": "Web",
+        "protocol": "https",
+        "subDomain": "web.de",
+        "domain": "emailclient",
+        "tld": "com",
+        "path": "/"
+      },
+      "test": 1
+    },
+    {
+      "item_id": 7,
+      "type": "web",
+      "provider": "Microsoft",
+      "isPhishing": true,
+      "image": "pre7.jpg",
+      "copyright": "Microsoft Corporation",
+      "meta": {
+        "extendedValidationCert": false,
+        "extendedValidationCertName": "Microsoft",
+        "protocol": "https",
+        "subDomain": "windows",
+        "domain": "mircosoft",
+        "tld": "com",
+        "path": "/de-de/windows/products"
+      },
+      "test": 1
+    },
+    {
+      "item_id": 8,
+      "type": "web",
+      "provider": "Esprit",
+      "isPhishing": true,
+      "image": "pre8.jpg",
+      "copyright": "Esprit Holdings Limited",
+      "meta": {
+        "extendedValidationCert": false,
+        "extendedValidationCertName": "Esprit",
+        "protocol": "https",
+        "subDomain": "www",
+        "domain": "shopping-esprit",
+        "tld": "de",
+        "path": "/cgi/h2/esprit.php/SignIn%26item%3D%2C%20http%3A"
+      },
+      "test": 1
+    },
+    {
+      "item_id": 9,
+      "type": "email",
+      "provider": "Telekom",
+      "isPhishing": false,
+      "image": "pre9.png",
+      "meta": {
+        "x": 50,
+        "y": 50,
+        "url": "http://google.com"
+      },
+      "copyright": "Deutsche Telekom AG",
+      "test": 1
+    },
+    {
+      "item_id": 10,
+      "type": "email",
+      "provider": "eBay",
+      "isPhishing": false,
+      "image": "pre10.png",
+      "meta": {
+        "x": 50,
+        "y": 50,
+        "url": "http://google.com"
+      },
+      "copyright": "eBay International AG",
+      "test": 1
+    },
+    {
+      "item_id": 11,
+      "type": "email",
+      "provider": "Xing",
+      "isPhishing": false,
+      "image": "pre11.png",
+      "meta": {
+        "x": 50,
+        "y": 50,
+        "url": "http://google.com"
+      },
+      "copyright": "XING AG",
+      "test": 1
+    },
+    {
+      "item_id": 12,
+      "type": "email",
+      "provider": "Google",
+      "isPhishing": false,
+      "image": "pre12.png",
+      "meta": {
+        "x": 50,
+        "y": 50,
+        "url": "http://google.com"
+      },
+      "copyright": "Google Inc.",
+      "test": 1
+    },
+    {
+      "item_id": 13,
+      "type": "email",
+      "provider": "Facebook",
+      "isPhishing": true,
+      "image": "pre13.png",
+      "meta": {
+        "x": 50,
+        "y": 50,
+        "url": "http://google.com"
+      },
+      "copyright": "Facebook Inc.",
+      "test": 1
+    },
+    {
+      "item_id": 14,
+      "type": "email",
+      "provider": "Twitter",
+      "isPhishing": true,
+      "image": "pre14.png",
+      "meta": {
+        "x": 50,
+        "y": 50,
+        "url": "http://google.com"
+      },
+      "copyright": "Twitter Inc.",
+      "test": 1
+    },
+    {
+      "item_id": 15,
+      "type": "email",
+      "provider": "Maxdome",
+      "isPhishing": true,
+      "image": "pre15.png",
+      "meta": {
+        "x": 50,
+        "y": 50,
+        "url": "http://google.com"
+      },
+      "copyright": "ProSiebenSat.1 Media SE",
+      "test": 1
+    },
+    {
+      "item_id": 16,
+      "type": "email",
+      "provider": "Paypal",
+      "isPhishing": true,
+      "image": "pre16.png",
+      "meta": {
+        "x": 50,
+        "y": 50,
+        "url": "http://google.com"
+      },
+      "copyright": "PayPal Holdings, Inc.",
+      "test": 1
+    }
+  ]
+}

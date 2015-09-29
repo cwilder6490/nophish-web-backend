@@ -1,0 +1,293 @@
+{
+  "test_id": 3,
+  "items": [
+    {
+      "item_id": 1,
+      "type": "web",
+      "provider": "Adidas",
+      "isPhishing": false,
+      "image": "retention1.png",
+      "copyright": "Adidas AG",
+      "meta": {
+        "extendedValidationCert": false,
+        "extendedValidationCertName": "Adidas",
+        "protocol": "https",
+        "subDomain": "www",
+        "domain": "adidas",
+        "tld": "de",
+        "path": "/on/demandware.store/Sites-adidas-DE-Site/de_DE/MyAccount-CreateOrLogin"
+      },
+      "test": 3
+    },
+    {
+      "item_id": 2,
+      "type": "web",
+      "provider": "BMW",
+      "isPhishing": false,
+      "image": "retention2.jpg",
+      "copyright": "Bayerische Motoren Werke Aktiengesellschaft",
+      "meta": {
+        "extendedValidationCert": false,
+        "extendedValidationCertName": "BMW",
+        "protocol": "https",
+        "subDomain": "www",
+        "domain": "bmw",
+        "tld": "de",
+        "path": "/de/home.html"
+      },
+      "test": 3
+    },
+    {
+      "item_id": 3,
+      "type": "web",
+      "provider": "Deutsche Bahn",
+      "isPhishing": false,
+      "image": "retention3.png",
+      "copyright": "Deutsche Bahn AG",
+      "meta": {
+        "extendedValidationCert": false,
+        "extendedValidationCertName": "Deutsche Bahn",
+        "protocol": "https",
+        "subDomain": "fahrkarten",
+        "domain": "bahn",
+        "tld": "de",
+        "path": "/privatkunde/start/start.post?lang=de&"
+      },
+      "test": 3
+    },
+    {
+      "item_id": 4,
+      "type": "web",
+      "provider": "Deutsche Post",
+      "isPhishing": true,
+      "image": "retention4.png",
+      "copyright": "Deutsche Post AG",
+      "meta": {
+        "extendedValidationCert": false,
+        "extendedValidationCertName": "Deutsche Post",
+        "protocol": "https",
+        "subDomain": "www",
+        "domain": "deutschepost-versand",
+        "tld": "de",
+        "path": "lieferung/login.html"
+      },
+      "test": 3
+    },
+    {
+      "item_id": 5,
+      "type": "web",
+      "provider": "Dropbox",
+      "isPhishing": false,
+      "image": "retention5.png",
+      "copyright": "Dropbox Inc.",
+      "meta": {
+        "extendedValidationCert": true,
+        "extendedValidationCertName": "Dropbox, Inc. [US]",
+        "protocol": "https",
+        "subDomain": "www",
+        "domain": "dropbox",
+        "tld": "com",
+        "path": "/?cctld"
+      },
+      "test": 3
+    },
+    {
+      "item_id": 6,
+      "type": "web",
+      "provider": "Hugo Boss",
+      "isPhishing": true,
+      "image": "retention6.png",
+      "copyright": "Hugo Boss AG",
+      "meta": {
+        "extendedValidationCert": false,
+        "extendedValidationCertName": "Hugo Boss",
+        "protocol": "https",
+        "subDomain": "www",
+        "domain": "shoppingstore",
+        "tld": "com",
+        "path": "/de/account"
+      },
+      "test": 3
+    },
+    {
+      "item_id": 7,
+      "type": "web",
+      "provider": "Intel",
+      "isPhishing": false,
+      "image": "retention7.png",
+      "copyright": "Intel Corporation",
+      "meta": {
+        "extendedValidationCert": false,
+        "extendedValidationCertName": "Intel",
+        "protocol": "https",
+        "subDomain": "www",
+        "domain": "intel",
+        "tld": "de",
+        "path": "/content/www/de/de/homepage.html"
+      },
+      "test": 3
+    },
+    {
+      "item_id": 8,
+      "type": "web",
+      "provider": "Karstadt",
+      "isPhishing": true,
+      "image": "retention8.png",
+      "copyright": "Karstadt Warenhaus GmbH",
+      "meta": {
+        "extendedValidationCert": false,
+        "extendedValidationCertName": "Karstadt",
+        "protocol": "https",
+        "subDomain": "www",
+        "domain": "karstdat",
+        "tld": "de",
+        "path": "/on/demandware.store/Sites-Karstadt-Site/de/Account-Show"
+      },
+      "test": 3
+    },
+    {
+      "item_id": 9,
+      "type": "web",
+      "provider": "Lidl",
+      "isPhishing": true,
+      "image": "retention9.png",
+      "copyright": "Lidl Stiftung & Co. KG",
+      "meta": {
+        "extendedValidationCert": false,
+        "extendedValidationCertName": "Lidl",
+        "protocol": "https",
+        "subDomain": "",
+        "domain": "192.93.2.5",
+        "tld": "",
+        "path": "einkaufen/login.html"
+      },
+      "test": 3
+    },
+    {
+      "item_id": 10,
+      "type": "web",
+      "provider": "Lufthansa",
+      "isPhishing": false,
+      "image": "retention10.png",
+      "copyright": "Deutsche Lufthansa AG",
+      "meta": {
+        "extendedValidationCert": false,
+        "extendedValidationCertName": "Lufthansa",
+        "protocol": "https",
+        "subDomain": "www",
+        "domain": "lufthansa",
+        "tld": "com",
+        "path": "/de/de/Homepage?llo=true"
+      },
+      "test": 3
+    },
+    {
+      "item_id": 11,
+      "type": "web",
+      "provider": "Nivea",
+      "isPhishing": true,
+      "image": "retention11.png",
+      "copyright": "Beiersdorf AG",
+      "meta": {
+        "extendedValidationCert": false,
+        "extendedValidationCertName": "Nivea",
+        "protocol": "https",
+        "subDomain": "www.nivea",
+        "domain": "cremes",
+        "tld": "de",
+        "path": ""
+      },
+      "test": 3
+    },
+    {
+      "item_id": 12,
+      "type": "web",
+      "provider": "Ritter Sport",
+      "isPhishing": false,
+      "image": "retention12.png",
+      "copyright": "Alfred Ritter GmbH & Co. KG",
+      "meta": {
+        "extendedValidationCert": false,
+        "extendedValidationCertName": "Ritter Sport",
+        "protocol": "https",
+        "subDomain": "shop",
+        "domain": "ritter-sport",
+        "tld": "de",
+        "path": "/"
+      },
+      "test": 3
+    },
+    {
+      "item_id": 13,
+      "type": "web",
+      "provider": "Samsung",
+      "isPhishing": true,
+      "image": "retention13.jpg",
+      "copyright": "Samsung Group",
+      "meta": {
+        "extendedValidationCert": false,
+        "extendedValidationCertName": "Samsung",
+        "protocol": "https",
+        "subDomain": "www",
+        "domain": "sarnsung",
+        "tld": "com",
+        "path": "/de/home"
+      },
+      "test": 3
+    },
+    {
+      "item_id": 14,
+      "type": "web",
+      "provider": "Vodafone",
+      "isPhishing": false,
+      "image": "retention14.png",
+      "copyright": "Vodafone GmbH",
+      "meta": {
+        "extendedValidationCert": false,
+        "extendedValidationCertName": "Vodafone",
+        "protocol": "https",
+        "subDomain": "www",
+        "domain": "vodafone",
+        "tld": "de",
+        "path": "/"
+      },
+      "test": 3
+    },
+    {
+      "item_id": 15,
+      "type": "web",
+      "provider": "Saturn",
+      "isPhishing": true,
+      "image": "retention15.png",
+      "copyright": "Media-Saturn-Holding GmbH",
+      "meta": {
+        "extendedValidationCert": false,
+        "extendedValidationCertName": "Saturn",
+        "protocol": "https",
+        "subDomain": "www",
+        "domain": "elektronik",
+        "tld": "de",
+        "path": "/www.saturn.de//webapp/wcs/stores/servlet/LogonForm?storeId=13801&langId=-3"
+      },
+      "test": 3
+    },
+    {
+      "item_id": 16,
+      "type": "web",
+      "provider": "Siemens",
+      "isPhishing": true,
+      "image": "retention16.png",
+      "copyright": "Siemens AG",
+      "meta": {
+        "extendedValidationCert": false,
+        "extendedValidationCertName": "Siemens",
+        "protocol": "https",
+        "subDomain": "",
+        "domain": "siemens-career",
+        "tld": "com",
+        "path": "/career?company=Siemens&loginFlowRequires=true&lang=en_GB"
+      },
+      "test": 3
+    }
+  ]
+}
