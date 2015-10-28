@@ -7,6 +7,7 @@
 
 var retentionTestDelayInDays = 28;
 var retentionTestReminderDelayInDays = 7;
+var retentionTestReactivateDelayInDays = 180;
 var postTestReminderDelayInDays = 1;
 var gameReminderDelayInDays = 7;
 
@@ -141,12 +142,21 @@ module.exports = {
                 });
               }
               else{
-                if(auth.user.retentionTestDone === true) return;
+                if(auth.user.retentionTestDone === true){
+                  if(getTimeDiff(now, auth.user.lastReminderEmail) > retentionTestReactivateDelayInDays){
+                    User.update({id: auth.user.id}, {lastReminderEmail: now}).exec(function (err, user) {
+                      log(auth, 'Notify User of Retention Test reunlock');
+                      var text = auth.user.addressFormal === true ? emailHtmlSixMonthReminderFormal : emailHtmlSixMonthReminderInformal;
+                      MailService.sendMail(auth.email, 'Retentiontest wieder freigeschaltet', 'Der Retentiontest wurde wieder freigeschaltet und ist nun auf der Übersicht unter Status auswählbar.', text);
+                    });
+                  }
+                  return;
+                }
                 if(getTimeDiff(now, auth.user.lastReminderEmail) > retentionTestReminderDelayInDays){
                   User.update({id: auth.user.id}, {lastReminderEmail: now}).exec(function (err, user) {
                     log(auth, 'Reminding User of Retention Test');
-                    var text = auth.user.addressFormal === true ? emailHtmlSixMonthReminderFormal : emailHtmlSixMonthReminderInformal;
-                    MailService.sendMail(auth.email, 'Retentiontest wieder freigeschaltet', 'Der Retentiontest wurde wieder freigeschaltet und ist nun auf der Übersicht unter Status auswählbar.', text);
+                    var text = auth.user.addressFormal === true ? emailHtmlRetentionReminderFormal : emailHtmlRetentionReminderInformal;
+                    MailService.sendMail(auth.email, 'Retentiontest freigeschaltet', 'Der Retentiontest wurde freigeschaltet und ist nun auf der Übersicht unter Status auswählbar.', text);
                   });
                 }
               }
