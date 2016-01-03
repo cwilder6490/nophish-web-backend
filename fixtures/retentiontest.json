@@ -3,289 +3,393 @@
   "items": [
     {
       "item_id": 1,
-      "type": "web",
+      "type": "email",
       "provider": "Adidas",
       "isPhishing": false,
-      "image": "retention1.png",
+      "image": "retention1.jpg",
       "copyright": "Adidas AG",
       "meta": {
-        "extendedValidationCert": false,
-        "extendedValidationCertName": "Adidas",
-        "protocol": "https",
-        "subDomain": "www",
-        "domain": "adidas",
-        "tld": "de",
-        "path": "/on/demandware.store/Sites-adidas-DE-Site/de_DE/MyAccount-CreateOrLogin"
+        "x": 50,
+        "y": 50,
+        "url": "http://google.com"
       },
       "test": 3
     },
     {
       "item_id": 2,
-      "type": "web",
+      "type": "email",
       "provider": "BMW",
       "isPhishing": false,
       "image": "retention2.jpg",
       "copyright": "Bayerische Motoren Werke Aktiengesellschaft",
       "meta": {
-        "extendedValidationCert": false,
-        "extendedValidationCertName": "BMW",
-        "protocol": "https",
-        "subDomain": "www",
-        "domain": "bmw",
-        "tld": "de",
-        "path": "/de/home.html"
+        "x": 50,
+        "y": 50,
+        "url": "http://google.com"
       },
       "test": 3
     },
     {
       "item_id": 3,
-      "type": "web",
+      "type": "email",
       "provider": "Deutsche Bahn",
       "isPhishing": false,
-      "image": "retention3.png",
+      "image": "retention3.jpg",
       "copyright": "Deutsche Bahn AG",
       "meta": {
-        "extendedValidationCert": false,
-        "extendedValidationCertName": "Deutsche Bahn",
-        "protocol": "https",
-        "subDomain": "fahrkarten",
-        "domain": "bahn",
-        "tld": "de",
-        "path": "/privatkunde/start/start.post?lang=de&"
+        "x": 50,
+        "y": 50,
+        "url": "http://google.com"
       },
       "test": 3
     },
     {
       "item_id": 4,
-      "type": "web",
+      "type": "email",
       "provider": "Deutsche Post",
       "isPhishing": true,
-      "image": "retention4.png",
+      "image": "retention4.jpg",
       "copyright": "Deutsche Post AG",
       "meta": {
-        "extendedValidationCert": false,
-        "extendedValidationCertName": "Deutsche Post",
-        "protocol": "https",
-        "subDomain": "www",
-        "domain": "deutschepost-versand",
-        "tld": "de",
-        "path": "lieferung/login.html"
+        "x": 50,
+        "y": 50,
+        "url": "http://google.com"
       },
       "test": 3
     },
     {
       "item_id": 5,
-      "type": "web",
+      "type": "email",
       "provider": "Dropbox",
       "isPhishing": false,
-      "image": "retention5.png",
+      "image": "retention5.jpg",
       "copyright": "Dropbox Inc.",
       "meta": {
-        "extendedValidationCert": true,
-        "extendedValidationCertName": "Dropbox, Inc. [US]",
-        "protocol": "https",
-        "subDomain": "www",
-        "domain": "dropbox",
-        "tld": "com",
-        "path": "/?cctld"
+        "x": 50,
+        "y": 50,
+        "url": "http://google.com"
       },
       "test": 3
     },
     {
       "item_id": 6,
-      "type": "web",
-      "provider": "Hugo Boss",
-      "isPhishing": true,
-      "image": "retention6.png",
-      "copyright": "Hugo Boss AG",
+      "type": "email",
+      "provider": "Amazon",
+      "isPhishing": false,
+      "image": "retention6.jpg",
+      "copyright": "Amazon.com, Inc.",
       "meta": {
-        "extendedValidationCert": false,
-        "extendedValidationCertName": "Hugo Boss",
-        "protocol": "https",
-        "subDomain": "www",
-        "domain": "shoppingstore",
-        "tld": "com",
-        "path": "/de/account"
+        "x": 50,
+        "y": 50,
+        "url": "http://google.com"
       },
       "test": 3
     },
     {
       "item_id": 7,
-      "type": "web",
-      "provider": "Intel",
+      "type": "email",
+      "provider": "BILD",
       "isPhishing": false,
-      "image": "retention7.png",
-      "copyright": "Intel Corporation",
+      "image": "retention7.jpg",
+      "copyright": "Axel Springer SE",
       "meta": {
-        "extendedValidationCert": false,
-        "extendedValidationCertName": "Intel",
-        "protocol": "https",
-        "subDomain": "www",
-        "domain": "intel",
-        "tld": "de",
-        "path": "/content/www/de/de/homepage.html"
+        "x": 50,
+        "y": 50,
+        "url": "http://google.com"
       },
       "test": 3
     },
     {
       "item_id": 8,
-      "type": "web",
+      "type": "email",
       "provider": "Karstadt",
       "isPhishing": true,
-      "image": "retention8.png",
+      "image": "retention8.jpg",
       "copyright": "Karstadt Warenhaus GmbH",
       "meta": {
-        "extendedValidationCert": false,
-        "extendedValidationCertName": "Karstadt",
-        "protocol": "https",
-        "subDomain": "www",
-        "domain": "karstdat",
-        "tld": "de",
-        "path": "/on/demandware.store/Sites-Karstadt-Site/de/Account-Show"
+        "x": 50,
+        "y": 50,
+        "url": "http://google.com"
       },
       "test": 3
     },
     {
       "item_id": 9,
-      "type": "web",
+      "type": "email",
       "provider": "Lidl",
       "isPhishing": true,
-      "image": "retention9.png",
+      "image": "retention9.jpg",
       "copyright": "Lidl Stiftung & Co. KG",
       "meta": {
-        "extendedValidationCert": false,
-        "extendedValidationCertName": "Lidl",
-        "protocol": "https",
-        "subDomain": "",
-        "domain": "192.93.2.5",
-        "tld": "",
-        "path": "einkaufen/login.html"
+        "x": 50,
+        "y": 50,
+        "url": "http://google.com"
       },
       "test": 3
     },
     {
       "item_id": 10,
-      "type": "web",
+      "type": "email",
       "provider": "Lufthansa",
       "isPhishing": false,
-      "image": "retention10.png",
+      "image": "retention10.jpg",
       "copyright": "Deutsche Lufthansa AG",
       "meta": {
-        "extendedValidationCert": false,
-        "extendedValidationCertName": "Lufthansa",
-        "protocol": "https",
-        "subDomain": "www",
-        "domain": "lufthansa",
-        "tld": "com",
-        "path": "/de/de/Homepage?llo=true"
+        "x": 50,
+        "y": 50,
+        "url": "http://google.com"
       },
       "test": 3
     },
     {
       "item_id": 11,
-      "type": "web",
+      "type": "email",
       "provider": "Nivea",
       "isPhishing": true,
-      "image": "retention11.png",
+      "image": "retention11.jpg",
       "copyright": "Beiersdorf AG",
       "meta": {
-        "extendedValidationCert": false,
-        "extendedValidationCertName": "Nivea",
-        "protocol": "https",
-        "subDomain": "www.nivea",
-        "domain": "cremes",
-        "tld": "de",
-        "path": ""
+        "x": 50,
+        "y": 50,
+        "url": "http://google.com"
       },
       "test": 3
     },
     {
       "item_id": 12,
-      "type": "web",
+      "type": "email",
       "provider": "Ritter Sport",
       "isPhishing": false,
-      "image": "retention12.png",
+      "image": "retention12.jpg",
       "copyright": "Alfred Ritter GmbH & Co. KG",
       "meta": {
-        "extendedValidationCert": false,
-        "extendedValidationCertName": "Ritter Sport",
-        "protocol": "https",
-        "subDomain": "shop",
-        "domain": "ritter-sport",
-        "tld": "de",
-        "path": "/"
+        "x": 50,
+        "y": 50,
+        "url": "http://google.com"
       },
       "test": 3
     },
     {
       "item_id": 13,
-      "type": "web",
+      "type": "email",
       "provider": "Samsung",
       "isPhishing": true,
       "image": "retention13.jpg",
       "copyright": "Samsung Group",
       "meta": {
-        "extendedValidationCert": false,
-        "extendedValidationCertName": "Samsung",
-        "protocol": "https",
-        "subDomain": "www",
-        "domain": "sarnsung",
-        "tld": "com",
-        "path": "/de/home"
+        "x": 50,
+        "y": 50,
+        "url": "http://google.com"
       },
       "test": 3
     },
     {
       "item_id": 14,
-      "type": "web",
+      "type": "email",
       "provider": "Vodafone",
       "isPhishing": false,
-      "image": "retention14.png",
+      "image": "retention14.jpg",
       "copyright": "Vodafone GmbH",
       "meta": {
-        "extendedValidationCert": false,
-        "extendedValidationCertName": "Vodafone",
-        "protocol": "https",
-        "subDomain": "www",
-        "domain": "vodafone",
-        "tld": "de",
-        "path": "/"
+        "x": 50,
+        "y": 50,
+        "url": "http://google.com"
       },
       "test": 3
     },
     {
       "item_id": 15,
-      "type": "web",
+      "type": "email",
       "provider": "Saturn",
       "isPhishing": true,
-      "image": "retention15.png",
+      "image": "retention15.jpg",
       "copyright": "Media-Saturn-Holding GmbH",
       "meta": {
-        "extendedValidationCert": false,
-        "extendedValidationCertName": "Saturn",
-        "protocol": "https",
-        "subDomain": "www",
-        "domain": "elektronik",
-        "tld": "de",
-        "path": "/www.saturn.de//webapp/wcs/stores/servlet/LogonForm?storeId=13801&langId=-3"
+        "x": 50,
+        "y": 50,
+        "url": "http://google.com"
       },
       "test": 3
     },
     {
       "item_id": 16,
-      "type": "web",
-      "provider": "Siemens",
+      "type": "email",
+      "provider": "Wordpress",
       "isPhishing": true,
-      "image": "retention16.png",
-      "copyright": "Siemens AG",
+      "image": "retention16.jpg",
+      "copyright": "Automattic Inc.",
       "meta": {
-        "extendedValidationCert": false,
-        "extendedValidationCertName": "Siemens",
-        "protocol": "https",
-        "subDomain": "",
-        "domain": "siemens-career",
-        "tld": "com",
-        "path": "/career?company=Siemens&loginFlowRequires=true&lang=en_GB"
+        "x": 50,
+        "y": 50,
+        "url": "http://google.com"
+      },
+      "test": 3
+    },
+    {
+      "item_id": 17,
+      "type": "email",
+      "provider": "Chefkoch",
+      "isPhishing": false,
+      "image": "retention17.jpg",
+      "copyright": "Chefkoch GmbH",
+      "meta": {
+        "x": 50,
+        "y": 50,
+        "url": "http://google.com"
+      },
+      "test": 3
+    },
+    {
+      "item_id": 18,
+      "type": "email",
+      "provider": "eBay",
+      "isPhishing": false,
+      "image": "retention18.jpg",
+      "copyright": "eBay International AG",
+      "meta": {
+        "x": 50,
+        "y": 50,
+        "url": "http://google.com"
+      },
+      "test": 3
+    },
+    {
+      "item_id": 19,
+      "type": "email",
+      "provider": "Esprit",
+      "isPhishing": true,
+      "image": "retention19.jpg",
+      "copyright": "Esprit Holdings Limited",
+      "meta": {
+        "x": 50,
+        "y": 50,
+        "url": "http://google.com"
+      },
+      "test": 3
+    },
+    {
+      "item_id": 20,
+      "type": "email",
+      "provider": "Facebook",
+      "isPhishing": true,
+      "image": "retention20.jpg",
+      "copyright": "Facebook Inc.",
+      "meta": {
+        "x": 50,
+        "y": 50,
+        "url": "http://google.com"
+      },
+      "test": 3
+    },
+    {
+      "item_id": 21,
+      "type": "email",
+      "provider": "Focus",
+      "isPhishing": true,
+      "image": "retention21.jpg",
+      "copyright": "Hubert Burda Media Holding KG",
+      "meta": {
+        "x": 50,
+        "y": 50,
+        "url": "http://google.com"
+      },
+      "test": 3
+    },
+    {
+      "item_id": 22,
+      "type": "email",
+      "provider": "IKEA",
+      "isPhishing": false,
+      "image": "retention22.jpg",
+      "copyright": "INGKA Holding B.V.",
+      "meta": {
+        "x": 50,
+        "y": 50,
+        "url": "http://google.com"
+      },
+      "test": 3
+    },
+    {
+      "item_id": 23,
+      "type": "email",
+      "provider": "Microsoft",
+      "isPhishing": true,
+      "image": "retention23.jpg",
+      "copyright": "Microsoft Corporation",
+      "meta": {
+        "x": 50,
+        "y": 50,
+        "url": "http://google.com"
+      },
+      "test": 3
+    },
+    {
+      "item_id": 24,
+      "type": "email",
+      "provider": "Otto",
+      "isPhishing": true,
+      "image": "retention24.jpg",
+      "copyright": "Otto (GmbH & Co KG)",
+      "meta": {
+        "x": 50,
+        "y": 50,
+        "url": "http://google.com"
+      },
+      "test": 3
+    },
+    {
+      "item_id": 25,
+      "type": "email",
+      "provider": "Tagesschau",
+      "isPhishing": false,
+      "image": "retention25.jpg",
+      "copyright": "ARD",
+      "meta": {
+        "x": 50,
+        "y": 50,
+        "url": "http://google.com"
+      },
+      "test": 3
+    },
+    {
+      "item_id": 26,
+      "type": "email",
+      "provider": "Twitter",
+      "isPhishing": true,
+      "image": "retention26.jpg",
+      "copyright": "Twitter Inc.",
+      "meta": {
+        "x": 50,
+        "y": 50,
+        "url": "http://google.com"
+      },
+      "test": 3
+    },
+    {
+      "item_id": 27,
+      "type": "email",
+      "provider": "Wikipedia",
+      "isPhishing": true,
+      "image": "retention27.jpg",
+      "copyright": "Wikimedia Foundation",
+      "meta": {
+        "x": 50,
+        "y": 50,
+        "url": "http://google.com"
+      },
+      "test": 3
+    },
+    {
+      "item_id": 28,
+      "type": "email",
+      "provider": "Xing",
+      "isPhishing": false,
+      "image": "retention28.jpg",
+      "copyright": "XING AG",
+      "meta": {
+        "x": 50,
+        "y": 50,
+        "url": "http://google.com"
       },
       "test": 3
     }
