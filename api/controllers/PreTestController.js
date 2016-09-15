@@ -2,7 +2,7 @@
  * PreTestController
  *
  * @module      :: Controller
- * @description	:: Provides the action to process a finished pretest
+ * @description :: Provides the action to process a finished pretest
  */
 
 module.exports = {
@@ -63,6 +63,7 @@ module.exports = {
      */
     function getQuestionsBelongingToLevel(id, questions){
       return questions.filter(function (question) {
+        console.log("belongsTo", question.belongsToLevel + " === " + id)
         return question.belongsToLevel === id;
       });
     }
@@ -118,17 +119,29 @@ module.exports = {
                 LevelStatus.update({level: levels[0].id, user: userId}, {unlocked: true, unlockedThroughPreTest: false}, function (err, updatedFirstLevelStatus) {
 
                   // Check if actualPoints are high enough to unlock levels at all
+          console.log('requiredPoints', maxPoints * config.minFactorOfMaxPoints);
                   if(maxPoints * config.minFactorOfMaxPoints <= actualPoints){
 
                     var levelsToUnlock = [];
                     var unlockedLevelInformation = [];
 
                     // Iterate over levels to unlock them if conditions are met
+          console.log('levelsLength', levels.length);
+          
+          questions.forEach(function (q) {
+            console.log("Fragen: ",q.id);
+          });
+          
                     for(var i = 1; i < levels.length; i++){
                       var level = levels[i];
+                      console.log("LevelID " + i, level.id);
+                      questions.forEach(function (q) {
+                        console.log(level.id, q.belongsToLevel);
+                      })
                       var questionsBelongingToLevel = getQuestionsBelongingToLevel(level.id, questions);
 
                       // Check if level can be unlocked, break if not
+                      console.log('questionsBelongingToLevel', questionsBelongingToLevel.length);
                       if(questionsBelongingToLevel.length > 0){
                         var points = 0;
                         questionsBelongingToLevel.forEach(function (q) {
