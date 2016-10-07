@@ -11,7 +11,7 @@ module.exports = function(req, res, next) {
   var authHeader = req.headers['authorization'];
   var atob = require('atob');
 
-  if(typeof(authHeader) === 'string' && atob(authHeader) === 'test'){
+  if(typeof(authHeader) === 'string' && atob(authHeader) === process.env.ADMIN_PASSWORD){
     next();
   }
   else{
