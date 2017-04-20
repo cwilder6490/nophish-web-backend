@@ -196,7 +196,7 @@ module.exports = {
    */
   sendConfirmationEmail: function(email, user){
     var confirmUrl =  process.env.URL_APP + '/confirm-email/' + user.emailConfirmationToken;
-    MailService.sendMail(email, 'E-Mail Verifikation', 'Bitte besuchen Sie folgende Adresse: ' + confirmUrl, '<b>Herzlich Willkommen bei NoPhish</b><br/><br/>Vielen Dank f&uuml;r Ihre Registrierung. Jetzt fehlt nur noch ein Schritt, um alle Funktionen freizuschalten und ihre E-Mail Adresse zu best&auml;tigen.<br/>Um sie endg&uuml;ltig zu verifizieren klicken Sie bitte <a href="' + process.env.URL_APP + '/confirm-email/' + user.emailConfirmationToken + '">hier</a>.<br/><br/>Sollten Sie diese Mail versehentlich erhalten, oder sich nicht bei NoPhish angemeldet haben, ignorieren Sie sie bitte.');
+    MailService.sendMail(email, 'E-Mail Verifikation', 'Bitte besuchen Sie folgende Adresse: ' + confirmUrl, '<b>Herzlich Willkommen bei NoPhish</b><br/><br/>Vielen Dank f&uuml;r Ihre Registrierung. Jetzt fehlt nur noch ein Schritt, um alle Funktionen freizuschalten und Ihre E-Mail Adresse zu best&auml;tigen.<br/>Bitte klicken Sie dazu<a href="' + process.env.URL_APP + '/confirm-email/' + user.emailConfirmationToken + '">hier</a>.<br/><br/>Sollten Sie diese Mail unerwartet und ohne vorherige Anmeldung bei NoPhish erhalten haben, ignorieren Sie diese bitte.');
   },
 
   /**
